@@ -1,0 +1,123 @@
+{
+  "kind": "book",
+  "as_of": "2026-10-09",
+  "book": {
+    "as_of": "2026-10-09",
+    "book_value": 14454.79949951173,
+    "cost_basis": 11855.000152587898,
+    "unrealized": 2599.7993469238304,
+    "unrealized_pct": 0.21929981555979186,
+    "day_dollar": -263.60031127927994,
+    "day_pct": -0.01790957676567649,
+    "return_30d_weighted": 0.18252398184849578,
+    "name_count": 2,
+    "top_ticker": "AMD",
+    "top_weight": 0.8413814049879821,
+    "names": [
+      {
+        "ticker": "AMD",
+        "company_name": "Advanced Micro Devices, Inc.",
+        "shares": 20.0,
+        "close": 608.099975585938,
+        "as_of": "2026-10-09",
+        "daily_return": -0.02026812083245981,
+        "return_30d": 0.2075058939950486,
+        "vol_30d": 0.03254097630965164,
+        "beta_60d": 2.9114986986848015,
+        "tape_news": "quiet",
+        "vol_regime": "calm",
+        "market_value": 12161.99951171876,
+        "weight": 0.8413814049879821,
+        "cost_basis": 9551.400146484379,
+        "unrealized": 2610.5993652343805,
+        "unrealized_pct": 0.2733211178672348,
+        "day_dollar": -251.60034179685994
+      },
+      {
+        "ticker": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "shares": 10.0,
+        "close": 229.279998779297,
+        "as_of": "2026-10-09",
+        "daily_return": -0.005206512367609428,
+        "return_30d": 0.0500091506613932,
+        "vol_30d": 0.01843873068261241,
+        "beta_60d": 1.8915371714338343,
+        "tape_news": "quiet",
+        "vol_regime": "calm",
+        "market_value": 2292.7999877929697,
+        "weight": 0.15861859501201786,
+        "cost_basis": 2303.6000061035197,
+        "unrealized": -10.800018310550058,
+        "unrealized_pct": -0.004688321879638302,
+        "day_dollar": -11.999969482419997
+      }
+    ],
+    "unheld": [],
+    "caveats": [
+      "AMD is 84% of the book (concentration, not a forecast).",
+      "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book."
+    ]
+  },
+  "risk": {
+    "lookback": "Constant today's weights over the lookback. Not a daily-rebalanced book.",
+    "corr_window": 90,
+    "vol_window": 30,
+    "beta_window": 60,
+    "drawdown_window": 90,
+    "sessions_used": 90,
+    "concentration_label": "High",
+    "top_ticker": "AMD",
+    "top_weight": 0.8413814049879821,
+    "name_count": 2,
+    "correlation": 0.4883042893556889,
+    "correlation_pair": "AMD/NVDA",
+    "correlation_label": "tend to move in the same direction",
+    "pairs": [
+      {
+        "a": "AMD",
+        "b": "NVDA",
+        "corr": 0.4883042893556889,
+        "high": false
+      }
+    ],
+    "vol_30d": 0.028897125601460048,
+    "beta_vs_spy": 2.749713834265941,
+    "drawdown_90d": -0.22885256622292938,
+    "sector_mix": [
+      {
+        "sector": "Semiconductors",
+        "weight": 1.0
+      }
+    ],
+    "sector_line": "100% Semiconductors",
+    "weights_used": {
+      "AMD": 0.8413814049879821,
+      "NVDA": 0.15861859501201786
+    },
+    "assessment": "High concentration: AMD is 84% of the book. AMD/NVDA 90-session correlation is 0.49 (tend to move in the same direction). Book beta vs SPY is 2.75 (more sensitive than the index). Book 30-session vol is 2.89% (session std, not annualized). 90-session drawdown from peak is -22.9%. Sector mix: 100% Semiconductors. Constant today's weights over the lookback. Not a daily-rebalanced book."
+  },
+  "macro": {
+    "spy": {
+      "ticker": "SPY",
+      "as_of": "2026-10-09",
+      "close": 778.570007324219,
+      "daily_return": 0.00599539324273458,
+      "vol_30d": 0.006246085426387841,
+      "return_30d": 0.0273676019247944
+    },
+    "headlines": [],
+    "relevant_news_count": 0
+  },
+  "caveats": [
+    "AMD is 84% of the book (concentration, not a forecast).",
+    "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book.",
+    "No SPY/US-market-relevant headlines in this dump.",
+    "AMD/NVDA 90-session correlation is 0.49 (tend to move in the same direction); constant today's weights.",
+    "Book beta vs SPY is 2.75 (higher market sensitivity; 60 sessions, constant weights)."
+  ],
+  "watchlist_tickers": [
+    "AMD",
+    "NVDA"
+  ]
+}

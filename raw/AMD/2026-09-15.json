@@ -1,0 +1,245 @@
+{
+  "ticker": "AMD",
+  "company_name": "Advanced Micro Devices, Inc.",
+  "as_of": "2026-09-15",
+  "metrics": {
+    "date": "2026-09-15",
+    "close": 504.200012207031,
+    "daily_return": 0.021868240337322147,
+    "volume_ratio": 0.8144011383554844,
+    "vol_30d": 0.0346973030025544,
+    "drawdown": -0.13205137540032297,
+    "pe": 128.62245209363036,
+    "market_cap": 823093936104.0735,
+    "momentum_12_1": 2.2439300680405108,
+    "beta_60d": 3.188185651342873,
+    "ma_30d": 484.0470001220703,
+    "dist_to_ma": 0.0416344116994391,
+    "return_7d": -0.0030449995196747803,
+    "return_30d": -0.01980987606917564,
+    "dist_52w_high": -0.13205137540032297,
+    "pb": 12.240538277949819,
+    "debt_to_cap": 0.0051950328054164345
+  },
+  "attention": {
+    "score_date": "2026-09-15",
+    "idio_return": 0.0364917509002941,
+    "idio_z": 0.861881368497507,
+    "volume_ratio": 0.814401138355484,
+    "anomaly_score": 0.41501976284585,
+    "iforest_flag": 0,
+    "news_count": 51,
+    "avg_sentiment": 0.338876470588235,
+    "tape_news": "noise",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 10,
+  "avg_sentiment_relevant": 0.14878,
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/jepq-monthly-check-swung-0-215512528.html",
+      "headline": "JEPQ\u2019s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can\u2019t Budget on It",
+      "summary": "JEPQ promises retirees a fat monthly paycheck, but the same $500,000 investment can produce wildly different checks from one season to the next, and the tax treatment buried in the fine print makes the real yield far less glamorous than the headline suggests.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T21:55:12+00:00",
+      "sentiment": 0.7789,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-advanced-micro-214503699.html",
+      "headline": "Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today",
+      "summary": "In the most recent trading session, Advanced Micro Devices (AMD) closed at $504.19, indicating a +2.18% shift from the previous trading day.",
+      "source": "Zacks",
+      "published_at": "2026-09-15T21:45:03+00:00",
+      "sentiment": 0.8126,
+      "relevant": true,
+      "body": "Advanced Micro Devices (AMD) closed at $504.19 in the latest trading session, marking a +2.18% move from the prior day. This move outpaced the S&P 500's daily loss of 0.45%. At the same time, the Dow lost 0.63%, and the tech-heavy Nasdaq lost 0.78%.\n\nPrior to today's trading, shares of the chipmaker had lost 2.49% lagged the Computer and Technology sector's loss of 1.27% and the S&P 500's loss of 1.99%.\n\nMarket participants will be closely following the financial results of Advanced Micro Devices in its upcoming release. The company's upcoming EPS is projected at $1.9, signifying a 58.33% increase compared to the same quarter of the previous year. At the same time, our most recent consensus estimate is projecting a revenue of $13.06 billion, reflecting a 41.3% rise from the equivalent quarter last year.\n\nLooking at the full year, the Zacks Consensus Estimates suggest analysts are expecting earnings of $7.48 per share and revenue of $50.5 billion. These totals would mark changes of +79.38% and +45.79%, respectively, from last year.\n\nIt's also important for investors to be aware of any recent modifications to analyst estimates for Advanced Micro Devices. Recent revisions tend to reflect the latest near-term business trends. Hence, positive alterations in estimates signify analyst optimism regarding the business and profitability.\n\nOur research shows that these estimate changes are directly correlated with near-term stock prices. To benefit from this, we have developed the Zacks Rank, a proprietary model which takes these estimate changes into account and provides an actionable rating system.\n\nThe Zacks Rank system ranges from #1 (Strong Buy) to #5 (Strong Sell). It has a remarkable, outside-audited track record of success, with #1 stocks delivering an average annual return of +25% since 1988. Over the past month, there's been a 0.18% fall in the Zacks Consensus EPS estimate. As of now, Advanced Micro Devices holds a Zacks Rank of #3 (Hold).\n\nIn terms of valuation, Advanced Micro Devices is currently trading at a Forward P/E ratio of 65.97. Its industry sports an average Forward P/E of 20.72, so one might conclude that Advanced Micro Devices is trading at a premium comparatively.\n\nMeanwhile, AMD's PEG ratio is currently 4.4. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. The Computer - Integrated Systems industry had an average PEG ratio of 0.59 as trading concluded yesterday.\n\nThe Computer - Integrated Systems industry is part of the Computer and Technology sector. This industry currently has a Zacks Industry Rank of 30, which puts it in the top 13% of all 250+ industries.\n\nThe Zacks Industry Rank evaluates the power of our distinct industry groups by determining the average Zacks Rank of the individual stocks forming the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\n\nBe sure to follow all of these stock-moving metrics, and many more, on Zacks.com.\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report"
+    },
+    {
+      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
+      "headline": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+      "summary": "Dow Jones tech titan Apple, along with Nvidia chipmaker TSMC, AMD and Bloom Energy, are in or near buy zones in Tuesday's market action.",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-09-15T20:38:46+00:00",
+      "sentiment": 0.4939,
+      "relevant": true
+    },
+    {
+      "url": "https://www.investors.com/news/technology/chip-stocks-nvidia-seek-rebound-after-ai-sell-off/?src=A00220&yptr=yahoo",
+      "headline": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off",
+      "summary": "Chip and computer hardware stocks tied to the artificial intelligence buildout attempted a comeback Tuesday after Monday's harsh sell-off.",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-09-15T20:31:52+00:00",
+      "sentiment": 0.0516,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-telling-ran-202637816.html",
+      "headline": "What Was Qualcomm Stock Telling You Before It Ran?",
+      "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+      "source": "Trefis",
+      "published_at": "2026-09-15T20:26:37+00:00",
+      "sentiment": 0.3818,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-investors-amd-200700397.html",
+      "headline": "Bank of America says investors get AMD stock wrong",
+      "summary": "Investors may be underestimating what comes next for AMD.",
+      "source": "TheStreet",
+      "published_at": "2026-09-15T20:07:00+00:00",
+      "sentiment": -0.4767,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-keep-climbing-195029560.html",
+      "headline": "What Would It Take For Micron Technology Stock To Keep Climbing?",
+      "summary": "Micron Technology (MU) trades near $924, up more than 500% over the past year and still about 24% below its three-year high. The easy read on a $1 trillion memory maker is that the run is over. But Micron has signed 16 strategic customer agreements that commit customers to buy set volumes, the largest at prices held between a contracted floor and a ceiling set at the June-quarter market price. A three-year scenario on Micron's own numbers shows what is still in front of you.",
+      "source": "Trefis",
+      "published_at": "2026-09-15T19:50:29+00:00",
+      "sentiment": 0.7506,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-rebounds-3-58-ai-185437246.html",
+      "headline": "AMD Rebounds 3% as Its 58% AI Engine Faces a Pause",
+      "summary": "The recovery recaptures part of Monday's selloff, but AMD's valuation still assumes uninterrupted data-center expansion.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-15T18:54:37+00:00",
+      "sentiment": 0.0,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-still-beat-amd-2028-174000040.html",
+      "headline": "Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction.",
+      "summary": "The AI chipmaking leader will stay ahead of the resilient underdog.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-15T17:40:00+00:00",
+      "sentiment": 0.0,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-amd-could-closing-gap-170043096.html",
+      "headline": "Prediction: AMD Could Be\u00a0Closing the Gap\u00a0in the AI\u00a0Chip Race",
+      "summary": "AMD has doubled in months on the back of an AI accelerator story finally winning over hyperscalers, but a stretched valuation and lurking execution risks put the bull thesis on a razor's edge.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T17:00:43+00:00",
+      "sentiment": -0.296,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-linked-stocks-slide-tech-181747255.html",
+      "headline": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
+      "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as \u2018sick conspiracy\u2019",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T22:10:52+00:00",
+      "sentiment": 0.6597,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
+      "headline": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
+      "summary": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.",
+      "source": "LA Times",
+      "published_at": "2026-09-14T21:47:16+00:00",
+      "sentiment": -0.1045,
+      "relevant": true,
+      "body": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.\n\nOver the weekend, Dario Amodei, the chief executive of Anthropic, published an essay titled \" We Must Pace the Frontier, \" calling for an industrywide effort to slow AI development. Executives at OpenAI, SpaceX and Microsoft also echoed the concern and called for some sort of pause.\n\nSemiconductor stocks bore the brunt of the statements. Chipmaker Nvidia fell 3% to $210.96. Its rival AMD lost 4%. Intel plunged 6%.\n\nAmid the fears, OpenAI, the company behind ChatGPT, suggested it might be delaying its initial public offering plans.\n\nOpenAI Chief Executive Sam Altman said in an interview with Fortune that it was an \"ill-advised moment\" for an initial public offering, saying the company won't list this year.\n\nWorries over doomsday scenarios tied to increasingly powerful technology skyrocketed last week after an Anthropic employee resigned, saying AI companies were gambling with humanity's future.\n\nAmong his suggestions: Use independent third-party monitors to ensure AI was being developed safely.\n\nMicrosoft on Monday published a \"humanist\" code of conduct to show its commitment to ensuring Microsoft's models \"will never resist human interruption, correction, or shutdown.\"\n\nAmodei's other proposals included working with democracies to set safety standards and finding ways to ensure Chinese entities also comply.\n\nAI capabilities have grown so rapidly that many industry leaders say they have spooked themselves. They warn that there is a not-insignificant possibility that humans will lose control of AI, which could do serious damage to the world.\n\nSkeptics say some of the fearmongering is motivated by industry leaders trying to solidify their positions by using new restrictions to make it difficult for competitors to emerge.\n\n\"What is clear is that Anthropic and OpenAI have grown to a size where they feel like they can do two things: One is encourage regulation, and two is control what that regulation looks like. And if they can do that, they can prevent competition,\" said Gil Luria, head of technology research at D.A. Davidson.\n\nAfter realizing a swarm of AI agents broke out of testing and hacked rival companies, OpenAI paused AI training for new models and promised to strengthen its cyber defenses. But it has since resumed.\n\nIf there were a pause in new AI development, it would slow the training of the next models, but current models could continue to serve customers, analysts said.\n\nThat could slow growth but not by much, said Joel Brookhart, an analyst covering AI companies at SemiAnalysis.\n\nAnthropic reportedly disclosed its second consecutive profitable quarter Sunday as it prepares to go public. Its revenue for the second quarter surged past $11.5 billion..\n\nJensen Huang, the CEO of Nvidia, dismissed AI doomsday scenarios as totally unfounded. He said that companies have made tremendous strides in defending against cybersecurity risks.\n\nPresident Trump dismissed the risks and defended the administration's light-touch regulatory approach.\n\nHe said U.S. laws already ban companies from creating dangerous technologies and punish them for damage their products cause. The U.S. has to continue upgrading its AI capabilities to stay ahead of China, he said.\n\n\"There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WI"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html",
+      "headline": "Update: Wall Street Dips as AI Warnings Weigh on Tech Sector",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street's equit",
+      "source": "MT Newswires",
+      "published_at": "2026-09-14T20:41:12+00:00",
+      "sentiment": -0.296,
+      "relevant": false
+    },
+    {
+      "url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo",
+      "headline": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Corning stock was the worst performer in the S&P 500 while CrowdStrike stock was the best-performer in the index.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-14T20:25:00+00:00",
+      "sentiment": -0.6249,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
+      "headline": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+      "summary": "By Noel Randewich Sept 14 (Reuters) - Wall Street ended down on Monday, weighed down by losses in Nvidia and other chipmakers after top executives in U.S. artificial intelligence companies raised",
+      "source": "Reuters",
+      "published_at": "2026-09-14T20:15:55+00:00",
+      "sentiment": 0.296,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/news/ai-warning-sends-nvidia-amd-190909953.html",
+      "headline": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
+      "summary": "Nvidia, Intel And AMD Shares Sink As AI Leaders Sound Fresh Warning",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-14T19:09:09+00:00",
+      "sentiment": 0.2263,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-drops-nearly-5-12-184038883.html",
+      "headline": "AMD Drops Nearly 5% With a 12.7% Revenue Hurdle Still Ahead",
+      "summary": "Calls for slower AI development challenge sentiment, but they do not establish that customers have canceled orders.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-14T18:40:38+00:00",
+      "sentiment": 0.0387,
+      "relevant": true
+    },
+    {
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chip-slowdown-6db14d5e?siteid=yhoof2&yptr=yahoo",
+      "headline": "Nvidia Stock Drops. It\u2019s Still the Best Chip Bet in an AI Slowdown.",
+      "summary": "Nvidia stock falls with Broadcom and AMD on the prospect of an AI slowdown but it could be better shielded than its peers.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-14T18:26:00+00:00",
+      "sentiment": 0.7935,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+      "headline": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+      "summary": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
+      "source": "Yahoo Finance Video",
+      "published_at": "2026-09-14T14:39:00+00:00",
+      "sentiment": 0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+      "headline": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+      "summary": "Here's a check of the markets in the first few minutes of trading.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T13:45:19+00:00",
+      "sentiment": 0.6369,
+      "relevant": false
+    }
+  ],
+  "caveats": [],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

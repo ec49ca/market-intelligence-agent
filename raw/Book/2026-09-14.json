@@ -1,0 +1,173 @@
+{
+  "kind": "book",
+  "as_of": "2026-09-14",
+  "book": {
+    "as_of": "2026-09-14",
+    "book_value": 11977.80014038085,
+    "cost_basis": 11855.000152587898,
+    "unrealized": 122.79998779295192,
+    "unrealized_pct": 0.010358497360807304,
+    "day_dollar": -527.69989013672,
+    "day_pct": -0.04219742424125042,
+    "return_30d_weighted": 0.006529218732844616,
+    "name_count": 2,
+    "top_ticker": "AMD",
+    "top_weight": 0.8238741636682884,
+    "names": [
+      {
+        "ticker": "AMD",
+        "company_name": "Advanced Micro Devices, Inc.",
+        "shares": 20.0,
+        "close": 493.410003662109,
+        "as_of": "2026-09-14",
+        "daily_return": -0.044019919411314994,
+        "return_30d": 0.0215316322358008,
+        "vol_30d": 0.03462492711257708,
+        "beta_60d": 3.3068065035139247,
+        "tape_news": "noise",
+        "vol_regime": "calm",
+        "market_value": 9868.20007324218,
+        "weight": 0.8238741636682884,
+        "cost_basis": 9551.400146484379,
+        "unrealized": 316.7999267578016,
+        "unrealized_pct": 0.03316790438042818,
+        "day_dollar": -454.40002441406
+      },
+      {
+        "ticker": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "shares": 10.0,
+        "close": 210.960006713867,
+        "as_of": "2026-09-14",
+        "daily_return": -0.03357912317427169,
+        "return_30d": -0.0636484515918834,
+        "vol_30d": 0.026847362761304835,
+        "beta_60d": 2.0848368752035196,
+        "tape_news": "noise",
+        "vol_regime": "calm",
+        "market_value": 2109.60006713867,
+        "weight": 0.1761258363317116,
+        "cost_basis": 2303.6000061035197,
+        "unrealized": -193.99993896484966,
+        "unrealized_pct": -0.08421598300522476,
+        "day_dollar": -73.29986572266002
+      }
+    ],
+    "unheld": [],
+    "caveats": [
+      "AMD is 82% of the book (concentration, not a forecast).",
+      "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book."
+    ]
+  },
+  "macro": {
+    "spy": {
+      "ticker": "SPY",
+      "as_of": "2026-09-14",
+      "close": 760.880004882812,
+      "daily_return": -0.004461622214821194,
+      "vol_30d": 0.0065289957084322765,
+      "return_30d": -0.021854270444399786
+    },
+    "headlines": [
+      {
+        "url": "https://finance.yahoo.com/healthcare/articles/one-dollar-extra-income-costs-223506766.html",
+        "headline": "One Dollar of Extra Income Costs a Retired Couple $2,300 a Year in Medicare Premiums. These Funds Pay Without Crossing the Line",
+        "summary": "A single dollar of extra retirement income can quietly trigger a massive Medicare premium hike, and the fund most retirees rely on for monthly income happens to be one of the worst offenders when accounts sit in the wrong place.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T22:35:06+00:00",
+        "sentiment": -0.8779,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nobody-withheld-taxes-first-retirement-221512373.html",
+        "headline": "Nobody Withheld Taxes From Your First Year of Retirement Income, and the April Bill Proves It. These 3 ETFs Cover It Every Year",
+        "summary": "Retirement income arrives without automatic tax withholding, and most retirees discover that gap for the first time when April hands them a bill they never budgeted for. Three ETFs can close that gap before it happens again.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T22:15:12+00:00",
+        "sentiment": 0.0,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-drop-215354993.html",
+        "headline": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure \u2014 MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
+        "summary": "Anthropic CEO Dario Amodei called for a slowdown of the development of AI capabilities.",
+        "source": "Stocktwits",
+        "published_at": "2026-09-14T21:53:54+00:00",
+        "sentiment": -0.6486,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/options/articles/tpay-yields-10-full-p-204339093.html",
+        "headline": "TPAY Yields 10% With Full S&P 500 Exposure. Here\u2019s Exactly What You Give Up to Get It",
+        "summary": "TPAY promises a 10% annual distribution while keeping you fully invested in the S&P 500, and it skips the covered-call playbook entirely to do it. But that unconventional approach comes with a hidden cost most investors overlook before buying in.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T20:43:39+00:00",
+        "sentiment": 0.2023,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-29-2026-191559013.html",
+        "headline": "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+        "summary": "Coca-Cola stock has left PepsiCo and the entire consumer staples sector in the dust this year, and a single round number now stands between KO and a milestone that would rewrite how investors think about its valuation.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T19:15:59+00:00",
+        "sentiment": 0.0772,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-55-2026-secret-190856222.html",
+        "headline": "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+        "summary": "While Wall Street obsesses over AI compute chips, one analog giant has quietly outpaced the S&P 500 by a factor of five this year, and the reason has nothing to do with artificial intelligence.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T19:08:56+00:00",
+        "sentiment": -0.0258,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chwy-still-down-34-did-190108316.html",
+        "headline": "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
+        "summary": "Chewy stock surged 6% in a single session after a brutal year-to-date collapse, and bargain hunters are suddenly paying attention. The case for a turnaround and the case against it both have real teeth, and the next quarter will force a verdict.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T19:01:08+00:00",
+        "sentiment": -0.7096,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/corning-tumbles-12-2b-market-174950803.html",
+        "headline": "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
+        "summary": "A surprise equity filing sent Corning to the bottom of the S&P 500 and pulled the entire AI optical sector down with it, raising a pointed question about whether a stock that surged 67% this year just flashed a warning sign for the broader hyperscaler buildout trade.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T17:49:50+00:00",
+        "sentiment": -0.0772,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/media-advertising/articles/netflix-climbs-4-alphabet-ticks-174552626.html",
+        "headline": "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
+        "summary": "A new streaming policy coalition just handed Netflix a potential key to unlock live sports rights that have been legally off-limits, and the gap between Netflix's stock surge and its founding partners' shrug tells you exactly who stands to win.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T17:45:52+00:00",
+        "sentiment": 0.7096,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/economy/articles/u-household-wealth-explodes-record-154806185.html",
+        "headline": "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
+        "summary": "American households just added more wealth in a single quarter than most countries produce in a year, yet consumer sentiment sits at recessionary levels. Two assets did all the heavy lifting, and the math only holds until it doesn't.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-14T15:48:06+00:00",
+        "sentiment": 0.8122,
+        "relevant": true
+      }
+    ],
+    "relevant_news_count": 6
+  },
+  "caveats": [
+    "AMD is 82% of the book (concentration, not a forecast).",
+    "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book."
+  ],
+  "watchlist_tickers": [
+    "AMD",
+    "NVDA"
+  ]
+}

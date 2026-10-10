@@ -1,0 +1,245 @@
+{
+  "ticker": "AMD",
+  "company_name": "Advanced Micro Devices, Inc.",
+  "as_of": "2026-09-11",
+  "metrics": {
+    "date": "2026-09-11",
+    "close": 516.130004882812,
+    "daily_return": 0.024880855098163825,
+    "volume_ratio": 0.8887776627741333,
+    "vol_30d": 0.033775805595711555,
+    "drawdown": -0.1115146429851389,
+    "pe": 131.66581757214593,
+    "market_cap": 842569351398.5287,
+    "momentum_12_1": 2.0270152500862406,
+    "beta_60d": 3.058376788727961,
+    "ma_30d": 482.8196665445964,
+    "dist_to_ma": 0.0689912624657738,
+    "return_7d": 0.1314670307331998,
+    "return_30d": 0.0687470496977811,
+    "dist_52w_high": -0.1115146429851389,
+    "pb": 12.530164474832173,
+    "debt_to_cap": 0.005074953169021081
+  },
+  "attention": {
+    "score_date": "2026-09-11",
+    "idio_return": -0.00118962791491144,
+    "idio_z": -0.0662771598234506,
+    "volume_ratio": 0.888777662774133,
+    "anomaly_score": 0.28005284015852,
+    "iforest_flag": 0,
+    "news_count": 50,
+    "avg_sentiment": 0.308016,
+    "tape_news": "noise",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 11,
+  "avg_sentiment_relevant": 0.46497272727272726,
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-ceo-reveals-decade-long-220700564.html",
+      "headline": "Marvell CEO reveals decade-long gem behind its explosive 239% surge",
+      "summary": "Marvell has outperformed every major chip stock, from NVDA and AMD to Broadcom, over the past year.",
+      "source": "TheStreet",
+      "published_at": "2026-09-11T22:07:00+00:00",
+      "sentiment": 0.0,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sell-nvidia-shares-made-retirement-215531809.html",
+      "headline": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+      "summary": "A position that started as a small allocation now controls your retirement, and selling everything creates its own disaster. Three ETFs offer a way to stay in the trade without betting the nest egg on a single design team.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-11T21:55:31+00:00",
+      "sentiment": -0.2023,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/much-jepq-collect-2-400-210215566.html",
+      "headline": "How Much JEPQ Do You Need to Collect $2,400 a Month?",
+      "summary": "JEPQ's near-14% distribution rate makes a $2,400 monthly paycheck sound almost effortless, but the fund hides concentrated megacap tech bets, bank credit exposure, and a payout that swings sharply with market volatility in ways most income investors never see coming.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-11T21:02:15+00:00",
+      "sentiment": 0.3291,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/former-openai-researcher-bets-ai-201641481.html",
+      "headline": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
+      "summary": "Former OpenAI researcher Leopold Aschenbrenner is betting on AI stocks again just weeks after his fund\u2019s $35 billion collapse.",
+      "source": "BeInCrypto",
+      "published_at": "2026-09-11T20:16:41+00:00",
+      "sentiment": -0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://www.barrons.com/articles/stock-movers-23a24cef?siteid=yhoof2&yptr=yahoo",
+      "headline": "Oracle, Kroger, Adobe, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Shares of Oracle fell after the software giant\u2019s first-quarter earnings attempt to ease some concerns about its reliance on OpenAI.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-11T20:16:00+00:00",
+      "sentiment": 0.5719,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-thing-wish-id-known-180100373.html",
+      "headline": "1 Thing I Wish I'd Known About the Stock Market When I First Started Investing",
+      "summary": "What is the most expensive habit a new investor can pick up? Taking quick profits on a company worth owning for decades.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-11T18:01:00+00:00",
+      "sentiment": 0.7579,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stockholders-worry-shrinking-revenue-175226563.html",
+      "headline": "Should Qualcomm Stockholders Worry About Its Shrinking Revenue?",
+      "summary": "Qualcomm (QCOM) grew revenue just 1.9% over the last twelve months, against a compound pace of about 6.2% a year over five years and 4.5% over three. The quarterly path is worse. Across the last four quarters, year-over-year growth slid from 10.0% to 5.0%, then to declines of 3.5% and 4.0%. That turn to shrinking quarterly sales is the risk to weigh.",
+      "source": "Trefis",
+      "published_at": "2026-09-11T17:52:26+00:00",
+      "sentiment": -0.6705,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-expands-rack-scale-ai-170203981.html",
+      "headline": "AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand",
+      "summary": "Advanced Micro Devices (NASDAQ:AMD) executives said the company is expanding its role in artificial intelligence from a semiconductor supplier toward a provider of rack-scale systems and software, while positioning its server CPU portfolio for increased demand from agentic AI workloads. Speaking at",
+      "source": "MarketBeat",
+      "published_at": "2026-09-11T17:02:03+00:00",
+      "sentiment": 0.8074,
+      "relevant": true,
+      "body": "Interested in Advanced Micro Devices, Inc.? Here are five stocks we like better.\n\nAMD is expanding beyond chips into rack-scale AI systems and software , coordinating CPUs, GPUs and networking for complete data-center solutions such as its Helios systems and MI455 products.\n\nAgentic AI is expected to increase demand for server CPUs because these workloads require continuous control-plane activity, API calls, database queries and tool execution. AMD is targeting high-core-count, high-frequency and general-purpose processors with its Venice portfolio.\n\nAMD expects strong growth in its data-center and AI businesses, while raising its estimate of the server CPU market to $220 billion through 2030 and emphasizing execution, hybrid computing architectures and the enduring importance of the x86 ecosystem.\n\nAdvanced Micro Devices (NASDAQ:AMD) executives said the company is expanding its role in artificial intelligence from a semiconductor supplier toward a provider of rack-scale systems and software, while positioning its server CPU portfolio for increased demand from agentic AI workloads.\n\nSpeaking at the Goldman Sachs Communacopia + Technology Conference, Dan McNamara, AMD's senior vice president and general manager of Compute and Enterprise AI, said AMD has also become a significant internal user of AI. The company began by optimizing its data layer for AI agents and open-sourced a solution called Optima, he said.\n\nMcNamara said AMD is now applying AI to domain-specific work, including electronic design automation, coding, debugging, kernel development and broader software development. He also cited automation and efficiency improvements across the company's operations.\n\n\"When you can drive a faster time to market, that's where the real rubber hits the road,\" McNamara said, adding that AMD deploys its own technologies in its data centers before bringing them to external enterprise customers.\n\nMatt Ramsay, AMD's corporate vice president of financial strategy and investor relations, said the company has adopted tools from Anthropic and OpenAI across its engineering organizations to accelerate software development, debugging and chip-program production. He said AMD has incurred higher token costs but has seen larger productivity gains.\n\nOn the outlook for AI models, Ramsay said the market will likely include frontier models, open-weight models and smaller language models tailored to specific tasks. AMD's objective, he said, is to provide CPU and GPU products that deliver favorable token-per-dollar economics across those use cases.\n\n\u2192 Defense, Solar, and Refining Stocks Split as the Iran Conflict Raises Energy Risk\n\nMcNamara said enterprises are expected to use hybrid architectures, combining cloud-based frontier models with on-premises systems running open-weight models. He described a policy-based routing approach in which workloads could be directed based on performance, latency, security and cost considerations.\n\n\"Enterprise are infinitely hybrid, and we believe that will continue,\" McNamara said.\n\nMcNamara said AMD has shifted from managing individual product roadmaps to coordinating a data-center roadmap spanning CPUs, GPUs and networking. The company's principal focus is now delivering rack-scale solutions, he said.\n\nRamsay said AMD can approach major computing customers as a broader high-performance-computing partner rather than solely as a supplier of a CPU, GPU, FPGA or semi-custom component. That approach can extend across endpoint de"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-nvidia-killer-broadcom-amd-164012177.html",
+      "headline": "The Better Nvidia Killer: Broadcom or AMD?",
+      "summary": "Broadcom and AMD both posted explosive AI growth and both have hyperscalers locked in as customers, but only one makes a convincing case for actually unseating Nvidia as the king of AI compute.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-11T16:40:12+00:00",
+      "sentiment": 0.5647,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/amd-crwv-focus-situational-awareness-154811955.html",
+      "headline": "AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options Tied To These Stocks",
+      "summary": "According to a CNBC report on Friday, Situational Awareness was also active in names like SK Hynix, SanDisk and the Roundhill Memory ETF.",
+      "source": "Stocktwits",
+      "published_at": "2026-09-11T15:48:11+00:00",
+      "sentiment": 0.6369,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-looks-cheap-discount-195733709.html",
+      "headline": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
+      "summary": "Qualcomm (QCOM) trades at about $176 a share, down about 14% over the past three months and up 12.4% over the past twelve. At 20.1 times earnings against an S&P 500 median of 22.9, a profitable chip designer sits below the market. The question is whether that is a good business on sale or a fair price for a business under real pressure.",
+      "source": "Trefis",
+      "published_at": "2026-09-10T19:57:33+00:00",
+      "sentiment": 0.8922,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195545130.html",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
+      "source": "MT Newswires",
+      "published_at": "2026-09-10T19:55:45+00:00",
+      "sentiment": -0.296,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/articles/advanced-micro-devices-vs-marvell-190805469.html",
+      "headline": "Advanced Micro Devices vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
+      "summary": "Both companies are winning in the AI chip race, but they are doing it with very different business models and profit profiles.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T19:08:05+00:00",
+      "sentiment": 0.8176,
+      "relevant": true,
+      "body": "The battle for silicon dominance is heating up as artificial intelligence transforms the global economy. Choosing between Advanced Micro Devices (NASDAQ:AMD) and Marvell Technology (NASDAQ:MRVL) requires looking at their specific strengths.\n\nAMD provides high-performance processors for personal computers, gaming consoles, and massive data centers. Marvell focuses on the plumbing of the internet, designing specialized chips for networking and storage. Both companies are central to the future of technology, but they serve different niches in the tech ecosystem.\n\nAMD designs high-performance processors for a wide range of clients, primarily competing among semiconductor stocks . The company recently secured a massive deal with OpenAI OpCo, LLC to deploy 6 gigawatts of GPUs, highlighting its growing role in AI infrastructure. It also supplies the core chips for Sony and Microsoft (NASDAQ:MSFT) game consoles. Customer concentration like this adds a layer of risk to the business. To support its AI goals, AMD acquired ZT Systems in 2025 before selling the manufacturing arm to Sanmina (NASDAQ:SANM).\n\nIn the fiscal year ended Dec. 27, 2025, revenue reached nearly $34.6 billion, representing a significant 34.3% increase compared with the prior fiscal year. This growth helped the company achieve net income of approximately $4.3 billion, which is a net margin of roughly 12.5%. These figures show a substantial improvement in profitability over previous years as the company captures more high-value data center sales.\n\nAs of its December 2025 balance sheet, the current ratio is nearly 2.9x, indicating the company has nearly $2.90 in short-term assets for every $1 in short-term debt. The debt-to-equity ratio is roughly 0.1x, which means the company uses very little borrowed money relative to shareholder equity. Free cash flow reached approximately $5.5 billion, though note that stock-based compensation represented roughly 25% of operating cash flow, which inflates reported cash generation since SBC is a non-cash expense added back in the cash flow statement.\n\nMarvell specializes in data infrastructure, providing the chips that move and store information across complex networks. A key part of its strategy is custom silicon, including a major partnership with Alphabet (NASDAQ:GOOGL) that extends through 2033. Because Marvell generates about 82% of its revenue from just ten customers, the company faces significant customer concentration risk. Recent acquisitions of Celestial AI and XConn Technologies further bolster its position in advanced switching and interconnect technology.\n\nIn the fiscal year ended Jan. 31, 2026, revenue reached nearly $8.2 billion, a sharp 42.1% increase year over year. The company reported net income of approximately $2.7 billion, yielding an impressive net margin of nearly 32.6%. While this marks a sharp turnaround from the net losses of the previous two fiscal years, this surge was heavily amplified by a one-time $1.8 billion pre-tax gain from the sale of its automotive business, alongside strong organic growth from high-value AI data center networking products.\n\nAccording to its January 2026 balance sheet, the debt-to-equity ratio is roughly 0.3x, showing a moderate level of total debt compared to the equity held by shareholders. The current ratio is approximately 2.0x, suggesting a healthy ability to cover immediate liabilities. Free cash flow for the year was nearly $1.4 billion, but note that stock-based compensation represe"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-earnings-ai-190000157.html",
+      "headline": "NVIDIA vs. AMD After Earnings: Which AI Stock Should You Buy Now?",
+      "summary": "NVIDIA's AI infrastructure leadership, higher profitability and lower valuation give it an edge over AMD as AI demand grows.",
+      "source": "Zacks",
+      "published_at": "2026-09-10T19:00:00+00:00",
+      "sentiment": -0.1531,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-nvidia-185130534.html",
+      "headline": "Advanced Micro Devices vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026?",
+      "summary": "Both companies are winning in AI chips, but one of them is winning by a margin that is getting harder to close.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T18:51:30+00:00",
+      "sentiment": 0.85,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/articles/piper-sandler-message-amd-stock-183752621.html",
+      "headline": "Piper Sandler Has a Message for AMD Stock Investors",
+      "summary": "One chip stock wins while another faces a valuation reality",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-10T18:37:52+00:00",
+      "sentiment": 0.5719,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-2-5-declaring-183013507.html",
+      "headline": "AMD Falls 2.5% After Declaring a $2 Trillion AI Prize",
+      "summary": "The opportunity dwarfs AMD's current business, making market-share conversion--not market size--the decisive investor question.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-10T18:30:13+00:00",
+      "sentiment": 0.7906,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-amd-mi450-181051677.html",
+      "headline": "Cathie Wood Is Selling AMD Before MI450 Arrives. Is She About to Miss Another Nvidia?",
+      "summary": "Cathie Wood is trimming AMD just as its biggest product cycle in years prepares to land, and the last time ARK sold an AI chipmaker too early, the stock went on to triple. Here is what the Helios launch changes about the calculus.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-10T18:10:51+00:00",
+      "sentiment": -0.1531,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-money-hyperscaler-deal-173255900.html",
+      "headline": "Can Marvell Stock Make You Money Before Its Hyperscaler Deal Pays Off?",
+      "summary": "Marvell Technology (MRVL) trades at $235.01, and it has expanded its agreement with a key hyperscaler, a deal analysts size at up to $120 billion of revenue over about six and a half years. Most of that money, though, arrives after the fiscal 2028 outlook you would be paying for today.",
+      "source": "Trefis",
+      "published_at": "2026-09-10T17:32:55+00:00",
+      "sentiment": 0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-move-just-put-amd-172600793.html",
+      "headline": "An Nvidia Move Just Put AMD and Intel on the Defensive",
+      "summary": "Nvidia is looking to extend its dominance in AI chips at the expense of Intel and AMD.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T17:26:00+00:00",
+      "sentiment": 0.3818,
+      "relevant": true
+    }
+  ],
+  "caveats": [],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

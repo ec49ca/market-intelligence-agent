@@ -1,0 +1,247 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "as_of": "2026-09-04",
+  "metrics": {
+    "date": "2026-09-04",
+    "close": 230.360000610352,
+    "daily_return": 0.008360707759355906,
+    "volume_ratio": 1.0245674558413775,
+    "vol_30d": 0.0285801614140377,
+    "drawdown": -0.02282177295939704,
+    "pe": 29.159493748145824,
+    "market_cap": 5562502934738.17,
+    "momentum_12_1": 0.2757194502000485,
+    "beta_60d": 1.9515536010668049,
+    "ma_30d": 215.39466654459633,
+    "dist_to_ma": 0.0694786658640741,
+    "return_7d": 0.0582506815564671,
+    "return_30d": 0.0519201554042745,
+    "dist_52w_high": -0.02282177295939704,
+    "pb": 24.291890816234524,
+    "debt_to_cap": 0.006986063960041607
+  },
+  "attention": {
+    "score_date": "2026-09-04",
+    "idio_return": 0.0158824581421221,
+    "idio_z": 1.10087940156259,
+    "volume_ratio": 1.02456745584138,
+    "anomaly_score": 0.204515272244356,
+    "iforest_flag": 0,
+    "news_count": 22,
+    "avg_sentiment": 0.272113636363636,
+    "tape_news": "noise",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 4,
+  "avg_sentiment_relevant": 0.09515000000000001,
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/real-estate/articles/why-independence-realty-trust-stock-225142521.html",
+      "headline": "Why Independence Realty Trust Stock Sank Today",
+      "summary": "It's essentially acquiring a peer REIT.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:51:42+00:00",
+      "sentiment": 0.5106,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-forecasts-230-billion-ai-224100954.html",
+      "headline": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "summary": "The custom chip designer could be one of the best buys in the market at today's prices.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:41:00+00:00",
+      "sentiment": 0.7579,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/energy/articles/whys-everyone-talking-bloom-energy-222500792.html",
+      "headline": "Why's Everyone Talking About Bloom Energy Now?",
+      "summary": "Everyone is chasing the companies building AI. But what if the bigger bottleneck is the power that powers them?",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:25:00+00:00",
+      "sentiment": 0.2287,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-reports-thursday-capital-budget-222401588.html",
+      "headline": "Oracle Reports Thursday. Its Capital Budget Is More Than Twice the Cash Its Business Produces.",
+      "summary": "The software giant plans to pay out about $70 billion in cash this fiscal year. Last year, its business produced $32 billion.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:24:01+00:00",
+      "sentiment": -0.1027,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-vug-vanguard-value-fund-221526134.html",
+      "headline": "Forget VUG. Vanguard\u2019s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+      "summary": "Two Vanguard funds share the same large-cap universe, the same rock-bottom fee, and the same issuer, yet one is lapping the other by a stunning margin this year, and the reason comes down to seven stocks you probably already own too many times over.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-09T22:15:26+00:00",
+      "sentiment": 0.1911,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microns-operating-margin-surged-past-221500965.html",
+      "headline": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
+      "summary": "The memory chip market is cyclical, but this time may be different.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:15:00+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-oddity-techs-stock-skyrocketed-220838178.html",
+      "headline": "Why Oddity Tech's Stock Skyrocketed 26.5% Today",
+      "summary": "Oddity Tech's sales fell hard and the stock soared anyway. Here's what investors loved about the report.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:08:38+00:00",
+      "sentiment": 0.5423,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-rallied-today-220558926.html",
+      "headline": "Why Cloudflare Rallied Today",
+      "summary": "Meta's new Muse agent could turbocharge web traffic and Cloudflare's revenue.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:05:58+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html",
+      "headline": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
+      "summary": "CoreWeave strikes a very bullish tone on demand.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-09T14:53:36+00:00",
+      "sentiment": -0.743,
+      "relevant": true,
+      "body": "SAN FRANCISCO, Calif. \u2014 What's good for Nvidia ( NVDA ) looks to be good for its key partner in the AI infrastructure boom, CoreWeave ( CRWV ).\n\n\"We are struggling to meet demand every day,\" CoreWeave CEO Michael Intrator told Yahoo Finance from the Goldman Sachs Communacopia & Tech Conference (video above). \"Every GPU we have could be sold to multiple different clients. It is a unique moment, and it continues to be.\"\n\nNvidia serves as the backbone, primary supplier, and main financial guarantor for CoreWeave's ever-expansive neocloud operation.\n\nBeyond supplying 100% of the advanced GPUs powering CoreWeave's specialized AI data centers, Nvidia acts as a major strategic shareholder, holding an 11.5% equity stake.\n\nNvidia said after reporting its fiscal second quarter earnings that it sees 70% revenue growth for fiscal year 2028, above analyst forecasts for 45% growth. The sales gain would be larger \u2014 think in excess of 100% \u2014 if not for memory chip shortages , Nvidia CEO Jensen Huang said.\n\nCoreWeave reported that second quarter sales surged 112% year over year. Adjusted operating profits more than doubled to $1.5 billion.\n\nDriven by explosive enterprise demand for graphics processing unit (GPU) compute and a massive $104 billion total revenue backlog, management raised its full-year 2026 revenue guidance to a range of $12.4 billion to $13.2 billion.\n\n\"The quarter demonstrated AI demand remains robust, strengthening pricing power (25% increases across SKUs), growing software/token business, and upside surprises on margins,\" Citi analyst Tyler Radke wrote. \"Overall, this was one of the cleaner quarters we've seen from CoreWeave since the IPO and we think shares should move meaningfully higher on increased investor confidence in the execution and improving profitability.\"\n\nBrian Sozzi is Yahoo Finance's Executive Editor, host of the Power Players with Brian Sozzi podcast, and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , Instagram , and LinkedIn . Tips on stories? Email brian.sozzi@yahoofinance.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices"
+    },
+    {
+      "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
+      "headline": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
+      "summary": "Apple (AAPL) is expected to unveil its foldable iPhone on Wednesday at its \"Surprise and Shine\" event. This will be CEO John Ternus's first product launch as chief executive. Sherwood News head of markets Luke Kawa and Investopedia editor in chief Caleb Silver chat with Morning Brief host Julie Hyman about their expectations for the launch.",
+      "source": "Yahoo Finance Video",
+      "published_at": "2026-09-09T14:12:32+00:00",
+      "sentiment": 0.8126,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
+      "headline": "Microsoft\u2019s \u2018Useful Yield\u2019 Test Raises the Stakes for NVIDIA\u2019s AI Economics",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) is asking a more demanding question about AI infrastructure: how much useful output does each dollar and watt actually produce? NVIDIA Corporation (NASDAQ:NVDA) has a substantial stake in the answer. At SEMICON Taiwan, described in a September 2 Microsoft update, Azure hardware chief Rani Borkar argued that capacity expansion must be accompanied [\u2026]",
+      "source": "Insider Monkey",
+      "published_at": "2026-09-08T22:58:32+00:00",
+      "sentiment": 0.0018,
+      "relevant": true
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "headline": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-09-08T22:56:56+00:00",
+      "sentiment": 0.5719,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-lost-over-half-225000535.html",
+      "headline": "Archer Aviation Has Lost Over Half Its Value. Is a Reverse Split Coming?",
+      "summary": "Is it likely that Archer Aviation is gearing up for a major stock structure change?",
+      "source": "Motley Fool",
+      "published_at": "2026-09-08T22:50:00+00:00",
+      "sentiment": 0.1179,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/healthcare/articles/goldman-sachs-just-added-vertex-222000883.html",
+      "headline": "Goldman Sachs Just Added Vertex Pharmaceuticals to Its Conviction List. Here's the Bull Case for the Big Biotech Stock",
+      "summary": "The company has tremendous prospects.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-08T22:20:00+00:00",
+      "sentiment": 0.3597,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-growing-faster-margin-guide-220848869.html",
+      "headline": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+      "summary": "Marvell Technology (MRVL) trades at $223.55, down 22.6% over the past three months, even after a 249.5% gain over the past twelve. Management raised its revenue outlook again. What it did not raise is the non-GAAP gross margin behind that revenue, a line management ties to its custom silicon ramp.",
+      "source": "Trefis",
+      "published_at": "2026-09-08T22:08:48+00:00",
+      "sentiment": 0.25,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-one-storage-stock-id-214601205.html",
+      "headline": "Here's the One Storage Stock I'd Buy With $2,000",
+      "summary": "Nearly every drive the hard drive maker can build this year is already spoken for. Which storage stock does all that locked-in demand reward most?",
+      "source": "Motley Fool",
+      "published_at": "2026-09-08T21:46:01+00:00",
+      "sentiment": 0.4215,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/healthcare/articles/why-crispr-therapeutics-stock-rocked-214547721.html",
+      "headline": "Why CRISPR Therapeutics Stock Rocked the Market Last Month",
+      "summary": "The company had fallen out of investor favor; its recovery was impressive.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-08T21:45:47+00:00",
+      "sentiment": 0.5423,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-falls-firmus-bet-lands-212513794.html",
+      "headline": "Nvidia Falls as Its Firmus Bet Lands OpenAI",
+      "summary": "The Malaysian agreement validates Nvidia's infrastructure ecosystem, but the chipmaker's direct economics remain undisclosed.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-08T21:25:13+00:00",
+      "sentiment": 0.4215,
+      "relevant": true,
+      "body": "Nvidia-backed Firmus secured a multiyear agreement to provide OpenAI with computing capacity from two Malaysian data centers. Nvidia ( NASDAQ:NVDA ), the AI-accelerator powerhouse supplying Firmus's next-generation infrastructure, fell approximately 1.5% to $226.86 in Tuesday morning trading.\n\nThe OpenAI deal pushes Firmus's committed customer capacity beyond 900 megawatts. The company currently operates two facilities and is building five more across the Asia-Pacific region, with future sites set to deploy Nvidia's Vera Rubin processors at scale. Firmus did not reveal the contract's financial terms, leaving investors without a clear measure of how much hardware demand the agreement could generate.\n\nNvidia ( NASDAQ:NVDA ) produced $89 billion in data-center revenue last quarter, accounting for roughly 92.5% of total sales. The GuruFocus chart reinforces the company's exceptional profitability and growth, alongside strong financial strength and healthy momentum, while GF Value remains the obvious weak spot. Firmus expands Nvidia's reach into another major AI-infrastructure project, but 900 megawatts measures power capacitynot Nvidia revenueso the real prize will depend on processor volumes, deployment timing and the economics behind the partnership."
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-ai-power-stock-double-212500866.html",
+      "headline": "Prediction: This AI Power Stock Will Double Revenue Before 2030. Here's the Math.",
+      "summary": "Vertiv's next phase of growth will depend on demand trends and execution.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-08T21:25:00+00:00",
+      "sentiment": 0.2732,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-jumps-6-7-while-211314437.html",
+      "headline": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door",
+      "summary": "The agreement validates demand beyond Nvidia while financing another competitor in AMD's target market.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-08T21:13:14+00:00",
+      "sentiment": 0.7003,
+      "relevant": true
+    }
+  ],
+  "caveats": [
+    "Some headlines were published after the last price bar (2026-09-04)."
+  ],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

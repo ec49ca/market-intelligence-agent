@@ -1,0 +1,173 @@
+{
+  "kind": "book",
+  "as_of": "2026-09-11",
+  "book": {
+    "as_of": "2026-09-11",
+    "book_value": 12505.50003051757,
+    "cost_basis": 11855.000152587898,
+    "unrealized": 650.4998779296725,
+    "unrealized_pct": 0.05487135129118249,
+    "day_dollar": 249.89990234373,
+    "day_pct": 0.02039067036539863,
+    "return_30d_weighted": 0.05222897556893074,
+    "name_count": 2,
+    "top_ticker": "AMD",
+    "top_weight": 0.825444810080818,
+    "names": [
+      {
+        "ticker": "AMD",
+        "company_name": "Advanced Micro Devices, Inc.",
+        "shares": 20.0,
+        "close": 516.130004882812,
+        "as_of": "2026-09-11",
+        "daily_return": 0.024880855098163825,
+        "return_30d": 0.0687470496977811,
+        "vol_30d": 0.033775805595711555,
+        "beta_60d": 3.058376788727961,
+        "tape_news": "noise",
+        "vol_regime": "calm",
+        "market_value": 10322.60009765624,
+        "weight": 0.825444810080818,
+        "cost_basis": 9551.400146484379,
+        "unrealized": 771.1999511718623,
+        "unrealized_pct": 0.08074208381435269,
+        "day_dollar": 250.59997558592
+      },
+      {
+        "ticker": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "shares": 10.0,
+        "close": 218.289993286133,
+        "as_of": "2026-09-11",
+        "daily_return": -0.0003206050742961992,
+        "return_30d": -0.02588247198242864,
+        "vol_30d": 0.026424491143415697,
+        "beta_60d": 1.9988204534086869,
+        "tape_news": "noise",
+        "vol_regime": "calm",
+        "market_value": 2182.89993286133,
+        "weight": 0.17455518991918192,
+        "cost_basis": 2303.6000061035197,
+        "unrealized": -120.70007324218977,
+        "unrealized_pct": -0.052396281004683125,
+        "day_dollar": -0.70007324219
+      }
+    ],
+    "unheld": [],
+    "caveats": [
+      "AMD is 83% of the book (concentration, not a forecast).",
+      "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book."
+    ]
+  },
+  "macro": {
+    "spy": {
+      "ticker": "SPY",
+      "as_of": "2026-09-11",
+      "close": 764.289978027344,
+      "daily_return": 0.008524287494320965,
+      "vol_30d": 0.006562273635056514,
+      "return_30d": -0.010615040079086462
+    },
+    "headlines": [
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/forget-p-500-3-unloved-003857058.html",
+        "headline": "Forget the S&P 500: 3 Unloved Parts of the Market Are Winning in 2026 and These Vanguard ETFs Own Them Cheap",
+        "summary": "While most investors spent the last decade chasing mega-cap growth, three overlooked corners of the market have quietly been outpacing the S&P 500 in 2026, and a handful of dirt-cheap Vanguard ETFs put all of them within easy reach.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-13T00:38:57+00:00",
+        "sentiment": 0.6249,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investing-vanguard-p-500-etf-192000849.html",
+        "headline": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk.",
+        "summary": "The top 10 components recently made up a whopping 38% of the fund's value -- and the top three made up about 20%.",
+        "source": "Motley Fool",
+        "published_at": "2026-09-12T19:20:00+00:00",
+        "sentiment": 0.25,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-break-past-231055529.html",
+        "headline": "S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week \u2014 DELL, HPE, EL, WMT In Focus",
+        "summary": "The consumer price index rose 0.4% in August, month over month and 3.4% year over year.",
+        "source": "Stocktwits",
+        "published_at": "2026-09-11T23:10:55+00:00",
+        "sentiment": -0.3182,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/schd-jepi-both-pay-wait-211839009.html",
+        "headline": "SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year",
+        "summary": "SCHD and JEPI sit side by side in countless income portfolios, yet they are built on fundamentally different bets about where returns come from. Confusing them for the same trade is costing investors real money.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-11T21:18:39+00:00",
+        "sentiment": -0.3182,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/peak-back-future-proof-citywide-202158735.html",
+        "headline": "A Peak Back at Future Proof Citywide with Tom Lee",
+        "summary": "<p>With Future Proof Huntington Beach right around the corner, we're looking back at some of the hot conversations earlier this year from Citywide. Here's a taste of the caliber of insights you can expect next week, this time with Tom Lee of Fundstrat covering the at-the-time seventh black swan thrown at the market since 2020.\u00a0</p>",
+        "source": "etf.com",
+        "published_at": "2026-09-11T20:21:58+00:00",
+        "sentiment": 0.0,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-stock-38-2026-break-191710227.html",
+        "headline": "ChargePoint Stock Is Up 38% in 2026: What Will It Take to Break Through $10?",
+        "summary": "ChargePoint has outrun every EV charging peer and lapped the broader market in 2026, but the entire advance arrived in a single month with nothing underneath to support it. What keeps a rally like that alive long enough to cross $10?",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-11T19:17:10+00:00",
+        "sentiment": 0.6277,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/deere-caterpillar-both-over-40-190926613.html",
+        "headline": "Deere and Caterpillar Are Both Up Over 40% This Year: Take Profits or Hold On for the Ride?",
+        "summary": "Deere and Caterpillar have each lapped the industrial sector by roughly four times over, yet the broader group never joined the party. Whether that narrowness is a warning sign or a competitive edge changes everything about what holders should do next.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-11T19:09:26+00:00",
+        "sentiment": -0.015,
+        "relevant": false
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nike-now-down-40-nke-185807174.html",
+        "headline": "Nike Is Now Down 40% This Year. Is NKE Stock Dead Money or Due for a Bounce?",
+        "summary": "Nike shares have shed nearly half their value this year, yet the chart hides a detail that reframes whether this is a company in crisis or a category caught in a broader storm. The answer changes everything about what comes next.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-11T18:58:07+00:00",
+        "sentiment": -0.7579,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/0-06-fee-dividend-etf-183606910.html",
+        "headline": "This 0.06%-Fee Dividend ETF Is Beating the S&P 500 by 16% YTD Without Owning a Single Magnificent Seven Stock",
+        "summary": "A dirt-cheap dividend ETF built around profitable, cash-generating companies has quietly turned 2026's market narrative upside down, and its secret has nothing to do with chasing yield.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-11T18:36:06+00:00",
+        "sentiment": 0.5859,
+        "relevant": true
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/storage-stocks-slide-profit-taking-180550876.html",
+        "headline": "Storage Stocks Slide as Profit Taking Follows Big Run: Seagate Falls 4%, SanDisk Drops 3%, Micron Holds Flat",
+        "summary": "Seagate just gave back a chunk of its monster year-to-date run with no news attached, and the reason Micron is doing the opposite tells you everything about where the smart money actually sits in memory right now.",
+        "source": "24/7 Wall St.",
+        "published_at": "2026-09-11T18:05:50+00:00",
+        "sentiment": 0.5267,
+        "relevant": true
+      }
+    ],
+    "relevant_news_count": 6
+  },
+  "caveats": [
+    "AMD is 83% of the book (concentration, not a forecast).",
+    "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book."
+  ],
+  "watchlist_tickers": [
+    "AMD",
+    "NVDA"
+  ]
+}

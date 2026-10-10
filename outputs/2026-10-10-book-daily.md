@@ -1,0 +1,22 @@
+<!-- ticker=book as_of=2026-10-09 generated=2026-10-10 -->
+# Book — 2026-10-10
+
+## What's happening
+The largest event for this portfolio remains Nvidia's strategic moves to deepen its AI ecosystem involvement, including advanced talks to invest up to $10 billion in Anthropic's anticipated IPO and exploring a potential acquisition of Hugging Face. These moves reflect Nvidia’s expanding footprint beyond its core hardware, adding capital partnerships and ownership stakes in AI software platforms that underpin the infrastructure layer. This shift could enhance long-term structural growth despite near-term sector caution.
+
+On the macro front, there are no relevant U.S. market or SPY headlines in this dump that directly affect this highly concentrated AI semiconductor book. The market remains quiet from a headline perspective, leaving industry-specific factors as the primary influence.
+
+## How the book is faring
+As of the last session on October 9, 2026, the total portfolio value was approximately $14,455, down 1.79% on the day for a modest intraday loss of about $264. Unrealized gains stand near 22%, reflecting solid longer-term performance. AMD, with 84% weight, was the main driver of value, declining about 2% on the session but still up more than 27% since cost basis. Nvidia’s 16% position showed minimal unrealized loss and a less volatile price move. Despite the recent pullback, the book preserved a healthy 30-day weighted return of over 18%, well ahead of the broad U.S. equity market’s weaker 30-day return near 2.7%. The portfolio remains tightly focused on AI semiconductor infrastructure, with position weights and unrealized P/L dominated by AMD’s gains.
+
+## Evaluation
+From a risk and correlation standpoint, the book is highly concentrated and volatile relative to the broad market. AMD accounts for 84% of allocation, making concentration risk significant. The 90-day correlation between AMD and Nvidia is moderate at 0.49, indicating they tend to move in the same direction but are not perfectly linked. The book’s 30-day session volatility is elevated at 2.89%, reflecting sector-specific swings much higher than the SPY’s 0.62% volatility. Beta to SPY over 60 sessions is 2.75, indicating considerable sensitivity to market moves with amplified fluctuations. Furthermore, the portfolio’s 90-day drawdown peaks near 23%, underscoring exposure to episodic selloffs typical of high-growth tech semiconductors. The sector exposure is 100% semiconductors, emphasizing the lack of diversification and thematic focus.
+
+Individually, AMD exhibits a calm volatility regime but elevated beta around 2.9 and a very high valuation with P/E near 155, pricing in strong AI growth expectations and expansion into integrated rack-scale AI systems. Nvidia’s valuation is more moderate (P/E near 29) with calm volatility and a slightly lower beta around 1.9. Open questions remain about customer durability amid AI development slowdown calls, and the realized economic benefit (‘useful yield’) of the capital expenditure on AI hardware from key customers like Microsoft. There is also a notable absence of explicit hedges or diversification roles within the book, such as software exposure, non-AI semiconductors, or energy-related themes.
+
+## Stance
+**Stance: Hold mix**
+
+This portfolio’s strong thematic conviction in AI-infrastructure semiconductors justifies holding the current concentrated positions in AMD and Nvidia. The long-term structural AI opportunity is supported by strategic ecosystem expansions, customer relationships, and differentiated product positioning. However, very high concentration, elevated beta, and significant valuation compressions remain key risks. A flip to trimming AMD or adding other names would require signs of durable slowdown in AI demand or materially weaker execution from AMD’s rack-scale expansion, or an observable shift in customer dynamics. Conversely, entry points or new capital partnerships signaling accelerated AI infrastructure spend could justify increasing stakes. Missing from the portfolio are roles like diversified software exposure, broader semi-customer platforms, or macro-related hedges that could reduce sensitivity to AI sector cyclicality or market volatility.
+
+Maintaining a hold stance preserves participation in the AI semiconductor upcycle while monitoring the open questions on risk management and thematic durability.

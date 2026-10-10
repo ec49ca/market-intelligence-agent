@@ -1,0 +1,245 @@
+{
+  "ticker": "AMD",
+  "company_name": "Advanced Micro Devices, Inc.",
+  "as_of": "2026-09-14",
+  "metrics": {
+    "date": "2026-09-14",
+    "close": 493.410003662109,
+    "daily_return": -0.044019919411314994,
+    "volume_ratio": 1.1726266700510013,
+    "vol_30d": 0.03462492711257708,
+    "drawdown": -0.1506256967990665,
+    "pe": 125.86989889339516,
+    "market_cap": 805479516451.5215,
+    "momentum_12_1": 2.1027816242499444,
+    "beta_60d": 3.3068065035139247,
+    "ma_30d": 483.39500020345054,
+    "dist_to_ma": 0.0207180534644408,
+    "return_7d": 0.033167904380428,
+    "return_30d": 0.0215316322358008,
+    "dist_52w_high": -0.1506256967990665,
+    "pb": 11.978587644439537,
+    "debt_to_cap": 0.005308639031365554
+  },
+  "attention": {
+    "score_date": "2026-09-14",
+    "idio_return": -0.0292661980551221,
+    "idio_z": -0.727691943360731,
+    "volume_ratio": 1.172626670051,
+    "anomaly_score": 0.369393139841689,
+    "iforest_flag": 0,
+    "news_count": 50,
+    "avg_sentiment": 0.332658,
+    "tape_news": "noise",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 8,
+  "avg_sentiment_relevant": 0.370375,
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-linked-stocks-slide-tech-181747255.html",
+      "headline": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
+      "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as \u2018sick conspiracy\u2019",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T22:10:52+00:00",
+      "sentiment": 0.6597,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
+      "headline": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
+      "summary": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.",
+      "source": "LA Times",
+      "published_at": "2026-09-14T21:47:16+00:00",
+      "sentiment": -0.1045,
+      "relevant": true,
+      "body": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.\n\nOver the weekend, Dario Amodei, the chief executive of Anthropic, published an essay titled \" We Must Pace the Frontier, \" calling for an industrywide effort to slow AI development. Executives at OpenAI, SpaceX and Microsoft also echoed the concern and called for some sort of pause.\n\nSemiconductor stocks bore the brunt of the statements. Chipmaker Nvidia fell 3% to $210.96. Its rival AMD lost 4%. Intel plunged 6%.\n\nAmid the fears, OpenAI, the company behind ChatGPT, suggested it might be delaying its initial public offering plans.\n\nOpenAI Chief Executive Sam Altman said in an interview with Fortune that it was an \"ill-advised moment\" for an initial public offering, saying the company won't list this year.\n\nWorries over doomsday scenarios tied to increasingly powerful technology skyrocketed last week after an Anthropic employee resigned, saying AI companies were gambling with humanity's future.\n\nAmong his suggestions: Use independent third-party monitors to ensure AI was being developed safely.\n\nMicrosoft on Monday published a \"humanist\" code of conduct to show its commitment to ensuring Microsoft's models \"will never resist human interruption, correction, or shutdown.\"\n\nAmodei's other proposals included working with democracies to set safety standards and finding ways to ensure Chinese entities also comply.\n\nAI capabilities have grown so rapidly that many industry leaders say they have spooked themselves. They warn that there is a not-insignificant possibility that humans will lose control of AI, which could do serious damage to the world.\n\nSkeptics say some of the fearmongering is motivated by industry leaders trying to solidify their positions by using new restrictions to make it difficult for competitors to emerge.\n\n\"What is clear is that Anthropic and OpenAI have grown to a size where they feel like they can do two things: One is encourage regulation, and two is control what that regulation looks like. And if they can do that, they can prevent competition,\" said Gil Luria, head of technology research at D.A. Davidson.\n\nAfter realizing a swarm of AI agents broke out of testing and hacked rival companies, OpenAI paused AI training for new models and promised to strengthen its cyber defenses. But it has since resumed.\n\nIf there were a pause in new AI development, it would slow the training of the next models, but current models could continue to serve customers, analysts said.\n\nThat could slow growth but not by much, said Joel Brookhart, an analyst covering AI companies at SemiAnalysis.\n\nAnthropic reportedly disclosed its second consecutive profitable quarter Sunday as it prepares to go public. Its revenue for the second quarter surged past $11.5 billion..\n\nJensen Huang, the CEO of Nvidia, dismissed AI doomsday scenarios as totally unfounded. He said that companies have made tremendous strides in defending against cybersecurity risks.\n\nPresident Trump dismissed the risks and defended the administration's light-touch regulatory approach.\n\nHe said U.S. laws already ban companies from creating dangerous technologies and punish them for damage their products cause. The U.S. has to continue upgrading its AI capabilities to stay ahead of China, he said.\n\n\"There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WI"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html",
+      "headline": "Update: Wall Street Dips as AI Warnings Weigh on Tech Sector",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street's equit",
+      "source": "MT Newswires",
+      "published_at": "2026-09-14T20:41:12+00:00",
+      "sentiment": -0.296,
+      "relevant": false
+    },
+    {
+      "url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo",
+      "headline": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Corning stock was the worst performer in the S&P 500 while CrowdStrike stock was the best-performer in the index.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-14T20:25:00+00:00",
+      "sentiment": -0.6249,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
+      "headline": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+      "summary": "By Noel Randewich Sept 14 (Reuters) - Wall Street ended down on Monday, weighed down by losses in Nvidia and other chipmakers after top executives in U.S. artificial intelligence companies raised",
+      "source": "Reuters",
+      "published_at": "2026-09-14T20:15:55+00:00",
+      "sentiment": 0.296,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/news/ai-warning-sends-nvidia-amd-190909953.html",
+      "headline": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
+      "summary": "Nvidia, Intel And AMD Shares Sink As AI Leaders Sound Fresh Warning",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-14T19:09:09+00:00",
+      "sentiment": 0.2263,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-drops-nearly-5-12-184038883.html",
+      "headline": "AMD Drops Nearly 5% With a 12.7% Revenue Hurdle Still Ahead",
+      "summary": "Calls for slower AI development challenge sentiment, but they do not establish that customers have canceled orders.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-14T18:40:38+00:00",
+      "sentiment": 0.0387,
+      "relevant": true
+    },
+    {
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chip-slowdown-6db14d5e?siteid=yhoof2&yptr=yahoo",
+      "headline": "Nvidia Stock Drops. It\u2019s Still the Best Chip Bet in an AI Slowdown.",
+      "summary": "Nvidia stock falls with Broadcom and AMD on the prospect of an AI slowdown but it could be better shielded than its peers.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-14T18:26:00+00:00",
+      "sentiment": 0.7935,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+      "headline": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+      "summary": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
+      "source": "Yahoo Finance Video",
+      "published_at": "2026-09-14T14:39:00+00:00",
+      "sentiment": 0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+      "headline": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+      "summary": "Here's a check of the markets in the first few minutes of trading.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T13:45:19+00:00",
+      "sentiment": 0.6369,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-ceo-reveals-decade-long-220700564.html",
+      "headline": "Marvell CEO reveals decade-long gem behind its explosive 239% surge",
+      "summary": "Marvell has outperformed every major chip stock, from NVDA and AMD to Broadcom, over the past year.",
+      "source": "TheStreet",
+      "published_at": "2026-09-11T22:07:00+00:00",
+      "sentiment": 0.0,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sell-nvidia-shares-made-retirement-215531809.html",
+      "headline": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+      "summary": "A position that started as a small allocation now controls your retirement, and selling everything creates its own disaster. Three ETFs offer a way to stay in the trade without betting the nest egg on a single design team.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-11T21:55:31+00:00",
+      "sentiment": -0.2023,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/much-jepq-collect-2-400-210215566.html",
+      "headline": "How Much JEPQ Do You Need to Collect $2,400 a Month?",
+      "summary": "JEPQ's near-14% distribution rate makes a $2,400 monthly paycheck sound almost effortless, but the fund hides concentrated megacap tech bets, bank credit exposure, and a payout that swings sharply with market volatility in ways most income investors never see coming.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-11T21:02:15+00:00",
+      "sentiment": 0.3291,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/former-openai-researcher-bets-ai-201641481.html",
+      "headline": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
+      "summary": "Former OpenAI researcher Leopold Aschenbrenner is betting on AI stocks again just weeks after his fund\u2019s $35 billion collapse.",
+      "source": "BeInCrypto",
+      "published_at": "2026-09-11T20:16:41+00:00",
+      "sentiment": -0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://www.barrons.com/articles/stock-movers-23a24cef?siteid=yhoof2&yptr=yahoo",
+      "headline": "Oracle, Kroger, Adobe, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Shares of Oracle fell after the software giant\u2019s first-quarter earnings attempt to ease some concerns about its reliance on OpenAI.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-11T20:16:00+00:00",
+      "sentiment": 0.5719,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-thing-wish-id-known-180100373.html",
+      "headline": "1 Thing I Wish I'd Known About the Stock Market When I First Started Investing",
+      "summary": "What is the most expensive habit a new investor can pick up? Taking quick profits on a company worth owning for decades.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-11T18:01:00+00:00",
+      "sentiment": 0.7579,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stockholders-worry-shrinking-revenue-175226563.html",
+      "headline": "Should Qualcomm Stockholders Worry About Its Shrinking Revenue?",
+      "summary": "Qualcomm (QCOM) grew revenue just 1.9% over the last twelve months, against a compound pace of about 6.2% a year over five years and 4.5% over three. The quarterly path is worse. Across the last four quarters, year-over-year growth slid from 10.0% to 5.0%, then to declines of 3.5% and 4.0%. That turn to shrinking quarterly sales is the risk to weigh.",
+      "source": "Trefis",
+      "published_at": "2026-09-11T17:52:26+00:00",
+      "sentiment": -0.6705,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-expands-rack-scale-ai-170203981.html",
+      "headline": "AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand",
+      "summary": "Advanced Micro Devices (NASDAQ:AMD) executives said the company is expanding its role in artificial intelligence from a semiconductor supplier toward a provider of rack-scale systems and software, while positioning its server CPU portfolio for increased demand from agentic AI workloads. Speaking at",
+      "source": "MarketBeat",
+      "published_at": "2026-09-11T17:02:03+00:00",
+      "sentiment": 0.8074,
+      "relevant": true,
+      "body": "Interested in Advanced Micro Devices, Inc.? Here are five stocks we like better.\n\nAMD is expanding beyond chips into rack-scale AI systems and software , coordinating CPUs, GPUs and networking for complete data-center solutions such as its Helios systems and MI455 products.\n\nAgentic AI is expected to increase demand for server CPUs because these workloads require continuous control-plane activity, API calls, database queries and tool execution. AMD is targeting high-core-count, high-frequency and general-purpose processors with its Venice portfolio.\n\nAMD expects strong growth in its data-center and AI businesses, while raising its estimate of the server CPU market to $220 billion through 2030 and emphasizing execution, hybrid computing architectures and the enduring importance of the x86 ecosystem.\n\nAdvanced Micro Devices (NASDAQ:AMD) executives said the company is expanding its role in artificial intelligence from a semiconductor supplier toward a provider of rack-scale systems and software, while positioning its server CPU portfolio for increased demand from agentic AI workloads.\n\nSpeaking at the Goldman Sachs Communacopia + Technology Conference, Dan McNamara, AMD's senior vice president and general manager of Compute and Enterprise AI, said AMD has also become a significant internal user of AI. The company began by optimizing its data layer for AI agents and open-sourced a solution called Optima, he said.\n\nMcNamara said AMD is now applying AI to domain-specific work, including electronic design automation, coding, debugging, kernel development and broader software development. He also cited automation and efficiency improvements across the company's operations.\n\n\"When you can drive a faster time to market, that's where the real rubber hits the road,\" McNamara said, adding that AMD deploys its own technologies in its data centers before bringing them to external enterprise customers.\n\nMatt Ramsay, AMD's corporate vice president of financial strategy and investor relations, said the company has adopted tools from Anthropic and OpenAI across its engineering organizations to accelerate software development, debugging and chip-program production. He said AMD has incurred higher token costs but has seen larger productivity gains.\n\nOn the outlook for AI models, Ramsay said the market will likely include frontier models, open-weight models and smaller language models tailored to specific tasks. AMD's objective, he said, is to provide CPU and GPU products that deliver favorable token-per-dollar economics across those use cases.\n\n\u2192 Defense, Solar, and Refining Stocks Split as the Iran Conflict Raises Energy Risk\n\nMcNamara said enterprises are expected to use hybrid architectures, combining cloud-based frontier models with on-premises systems running open-weight models. He described a policy-based routing approach in which workloads could be directed based on performance, latency, security and cost considerations.\n\n\"Enterprise are infinitely hybrid, and we believe that will continue,\" McNamara said.\n\nMcNamara said AMD has shifted from managing individual product roadmaps to coordinating a data-center roadmap spanning CPUs, GPUs and networking. The company's principal focus is now delivering rack-scale solutions, he said.\n\nRamsay said AMD can approach major computing customers as a broader high-performance-computing partner rather than solely as a supplier of a CPU, GPU, FPGA or semi-custom component. That approach can extend across endpoint de"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-nvidia-killer-broadcom-amd-164012177.html",
+      "headline": "The Better Nvidia Killer: Broadcom or AMD?",
+      "summary": "Broadcom and AMD both posted explosive AI growth and both have hyperscalers locked in as customers, but only one makes a convincing case for actually unseating Nvidia as the king of AI compute.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-11T16:40:12+00:00",
+      "sentiment": 0.5647,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/amd-crwv-focus-situational-awareness-154811955.html",
+      "headline": "AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options Tied To These Stocks",
+      "summary": "According to a CNBC report on Friday, Situational Awareness was also active in names like SK Hynix, SanDisk and the Roundhill Memory ETF.",
+      "source": "Stocktwits",
+      "published_at": "2026-09-11T15:48:11+00:00",
+      "sentiment": 0.6369,
+      "relevant": true
+    }
+  ],
+  "caveats": [],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

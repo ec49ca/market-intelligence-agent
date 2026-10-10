@@ -1,0 +1,245 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "as_of": "2026-10-06",
+  "metrics": {
+    "date": "2026-10-06",
+    "close": 239.240005493164,
+    "daily_return": 0.001423238197433056,
+    "volume_ratio": 0.8197899195433073,
+    "vol_30d": 0.023905477761528782,
+    "drawdown": 0.0,
+    "pe": 30.245259860071304,
+    "market_cap": 5776928412643.431,
+    "momentum_12_1": 0.2278009093138952,
+    "beta_60d": 1.9401646723684733,
+    "ma_30d": 223.77699991861977,
+    "dist_to_ma": 0.0691000664955184,
+    "return_7d": 0.0529466063281569,
+    "return_30d": 0.038548380184424,
+    "dist_52w_high": 0.0,
+    "pb": 25.228303858817252,
+    "debt_to_cap": 0.006726758322805368
+  },
+  "attention": {
+    "score_date": "2026-10-06",
+    "idio_return": -0.00924377297780896,
+    "idio_z": -0.592577158266187,
+    "volume_ratio": 0.819789919543307,
+    "anomaly_score": 0.560723514211886,
+    "iforest_flag": 0,
+    "news_count": 0,
+    "avg_sentiment": 0.0,
+    "tape_news": "quiet",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 9,
+  "avg_sentiment_relevant": 0.2872222222222222,
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/pinterest-nvidia-partner-boost-ai-221729051.html",
+      "headline": "Pinterest, Nvidia Partner To Boost AI Shopping, Search Offerings",
+      "summary": "Pinterest has announced a partnership with GPU-manufacturer Nvidia, which will power a new layer of AI in an effort to expand the social discovery platform's automated shopping offerings.",
+      "source": "MediaPost",
+      "published_at": "2026-09-15T22:17:29+00:00",
+      "sentiment": 0.6124,
+      "relevant": true,
+      "body": "Pinterest has announced a partnership with GPU-manufacturer Nvidia, which will power a new layer of artificial intelligence (AI) in an effort to expand the social discovery platform's automatedshopping offerings.\n\nThe company's new AI layer combines Nvidia's hardware and Pinterest's visual embeddings, designed to provide Pinterest's teams with the ability to build and launchmultimodal AI products without having to create an individual infrastructure for each offering.\n\nAccording to the announcement, the partnership will \"support a growing range of productsthat rely on both images and language, including visual search, content understanding and safety systems.\"\n\nBy investing in Nvidia's hardware, Pinterest is attempting to not only expandits automated online shopping ecosystem, but to \"deliver faster, smarter, and more personalized experiences\" for the platform's user base, according to Kartik Paramasivam,Pinterest's chief architect.\n\nRight now, Pinterest supports over 80 billion monthly searches. In early tests, Nvidia's contribution has enabled Pinterest Assistant -- theplatform's chatbot -- to run 25x more visual context per request.\n\n\"In benchmark testing, Pinterest saw average improvements of about 85x faster response startup and 7.3x fasteroverall latency when using precomputed visual representations instead of repeatedly processing raw images,\" the announcement reads.\n\nOnboarding 14,000 Nvidia GPUs to power its shoppingecosystem and search experience comes after Pinterest CEO Bill Ready called AI \"a clear accelerant\" for the business.\n\n\"AI is at theheart of our momentum,\" Ready said in an earnings call last quarter, calling Pinterest as a whole \"an AI-driven shopping assistant.\"\n\n\"Over time, our goal is for nearlyevery lower funnel campaign on Pinterest to start in an AI-powered best practice setup with added controls for more complex buyers who need them,\" Ready explained. \"Our near-term roadmap,including a simpler campaign creation flow, more sophisticated bidding, and more automated creative, is designed to drive the next leg of Pinterest Performance+ adoption.\""
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/td-synnex-orca-ai-power-221324901.html",
+      "headline": "Should TD SYNNEX\u2019s New ORCA AI Power SKU Require Action From TD SYNNEX (SNX) Investors?",
+      "summary": "Hammerhead AI recently announced a collaboration naming TD SYNNEX as distributor for its ORCA software, enabling data center operators to convert stranded power into AI-ready capacity via TD SYNNEX\u2019s global reseller network. This agreement gives TD SYNNEX a standardized AI power-orchestration SKU that directly addresses power constraints in AI data centers, aligning closely with its Destination AI program. We\u2019ll now examine how TD SYNNEX\u2019s new ORCA distribution role, focused on unlocking...",
+      "source": "Simply Wall St.",
+      "published_at": "2026-09-15T22:13:24+00:00",
+      "sentiment": 0.7469,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-discussing-10-billion-221322403.html",
+      "headline": "Nvidia (NVDA) Is Discussing Up To $10 Billion For An AI IPO",
+      "summary": "Nvidia (NasdaqGS: NVDA) is in advanced talks to invest up to US$10b in Anthropic's planned IPO, according to people familiar with the discussions. The chipmaker is also exploring a potential acquisition of AI platform Hugging Face for up to US$14b, in a deal that would expand its software footprint. Both moves would extend Nvidia's role beyond AI hardware into deeper capital partnerships and ownership stakes in key model and tooling providers. These possible Anthropic and Hugging Face deals...",
+      "source": "Simply Wall St.",
+      "published_at": "2026-09-15T22:13:22+00:00",
+      "sentiment": 0.8625,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/credo-crdo-vs-marvell-mrvl-221100887.html",
+      "headline": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
+      "summary": "Outside of Nvidia (NVDA) and Broadcom (AVGO), Credo Technology (CRDO) and Marvell Technology (MRVL) are two of the most searched-for chip stocks on Zacks.com.",
+      "source": "Zacks",
+      "published_at": "2026-09-15T22:11:00+00:00",
+      "sentiment": 0.4404,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-won-ai-training-215900389.html",
+      "headline": "Nvidia May Have Won the AI Training Race, but the Bigger Opportunity Is Likely Still Ahead",
+      "summary": "Nvidia may have won the first phase of the AI revolution, but the next phase is just beginning to unfold.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-15T21:59:00+00:00",
+      "sentiment": 0.9022,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-restricting-anthropic-ai-215533551.html",
+      "headline": "Palantir and Nvidia Are Restricting Anthropic\u2019s AI. Microsoft Could Win the Enterprise Trust War",
+      "summary": "Palantir and Nvidia have reportedly tightened restrictions around Anthropic\u2019s advanced AI models over data-retention concerns. Palantir has demanded irrevocable zero-data-retention guarantees before making the models available through its software, while Nvidia limits Claude to less-sensitive internal work. At Palantir Technologies Inc. (NASDAQ:PLTR), that lands inside its sovereign-AI pitch. At Microsoft Corporation (NASDAQ:MSFT), it creates an [\u2026]",
+      "source": "Insider Monkey",
+      "published_at": "2026-09-15T21:55:33+00:00",
+      "sentiment": 0.4215,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rule-breakers-dig-stocks-215401824.html",
+      "headline": "Why Rule Breakers Dig Stocks With Multiple Futures",
+      "summary": "Different industries, different products, same shape: a company with several genuine paths forward, not just one.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-15T21:54:01+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html",
+      "headline": "TSMC\u2019s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
+      "summary": "MediaTek launched its Dimensity 9600 Pro on September 15 using Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) 2-nanometer technology, putting TSMC\u2019s newest node into a flagship mobile chip. MediaTek also has $3.5 billion of financing from NVIDIA Corporation (NASDAQ:NVDA) and a broader Nvidia partnership spanning custom AI chips, PCs and automotive. The smartphone launch is another [\u2026]",
+      "source": "Insider Monkey",
+      "published_at": "2026-09-15T21:48:27+00:00",
+      "sentiment": 0.0,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-hits-2007-high-as-oil-stays-above-100-alphacheck-140049622.html",
+      "headline": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
+      "summary": "Here's a check of the markets in the first few minutes of trading.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-15T14:00:49+00:00",
+      "sentiment": 0.2023,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/owe-humanity-try-anthropics-ceo-221601409.html",
+      "headline": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google\u2019s AI Chief Agree.",
+      "summary": "A rare moment of unity among AI's fiercest rivals.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-14T22:16:01+00:00",
+      "sentiment": 0.3612,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-linked-stocks-slide-tech-181747255.html",
+      "headline": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
+      "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as \u2018sick conspiracy\u2019",
+      "source": "The Guardian",
+      "published_at": "2026-09-14T22:10:52+00:00",
+      "sentiment": 0.6597,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-stock-slumped-today-220238220.html",
+      "headline": "Why SLB Stock Slumped Today",
+      "summary": "It wasn't a banner day for oilfield services companies.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-14T22:02:38+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-spacex-stock-could-215602385.html",
+      "headline": "Here's Why SpaceX Stock Could Finish 2026 Above $200",
+      "summary": "SpaceX stock hasn't been at $200 since shortly after it went public in mid-June.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-14T21:56:02+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-tesla-215300976.html",
+      "headline": "If You'd Invested $1,000 in Tesla Stock 1 Year Ago, Here's How Much You'd Have Today",
+      "summary": "Tesla hasn't been its usual market-beating self.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-14T21:53:00+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
+      "headline": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
+      "summary": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.",
+      "source": "LA Times",
+      "published_at": "2026-09-14T21:47:16+00:00",
+      "sentiment": -0.1045,
+      "relevant": true,
+      "body": "Artificial intelligence stocks tumbled on Monday after American leaders of the AI revolution called for a coordinated slowdown in building more powerful AI systems.\n\nOver the weekend, Dario Amodei, the chief executive of Anthropic, published an essay titled \" We Must Pace the Frontier, \" calling for an industrywide effort to slow AI development. Executives at OpenAI, SpaceX and Microsoft also echoed the concern and called for some sort of pause.\n\nSemiconductor stocks bore the brunt of the statements. Chipmaker Nvidia fell 3% to $210.96. Its rival AMD lost 4%. Intel plunged 6%.\n\nAmid the fears, OpenAI, the company behind ChatGPT, suggested it might be delaying its initial public offering plans.\n\nOpenAI Chief Executive Sam Altman said in an interview with Fortune that it was an \"ill-advised moment\" for an initial public offering, saying the company won't list this year.\n\nWorries over doomsday scenarios tied to increasingly powerful technology skyrocketed last week after an Anthropic employee resigned, saying AI companies were gambling with humanity's future.\n\nAmong his suggestions: Use independent third-party monitors to ensure AI was being developed safely.\n\nMicrosoft on Monday published a \"humanist\" code of conduct to show its commitment to ensuring Microsoft's models \"will never resist human interruption, correction, or shutdown.\"\n\nAmodei's other proposals included working with democracies to set safety standards and finding ways to ensure Chinese entities also comply.\n\nAI capabilities have grown so rapidly that many industry leaders say they have spooked themselves. They warn that there is a not-insignificant possibility that humans will lose control of AI, which could do serious damage to the world.\n\nSkeptics say some of the fearmongering is motivated by industry leaders trying to solidify their positions by using new restrictions to make it difficult for competitors to emerge.\n\n\"What is clear is that Anthropic and OpenAI have grown to a size where they feel like they can do two things: One is encourage regulation, and two is control what that regulation looks like. And if they can do that, they can prevent competition,\" said Gil Luria, head of technology research at D.A. Davidson.\n\nAfter realizing a swarm of AI agents broke out of testing and hacked rival companies, OpenAI paused AI training for new models and promised to strengthen its cyber defenses. But it has since resumed.\n\nIf there were a pause in new AI development, it would slow the training of the next models, but current models could continue to serve customers, analysts said.\n\nThat could slow growth but not by much, said Joel Brookhart, an analyst covering AI companies at SemiAnalysis.\n\nAnthropic reportedly disclosed its second consecutive profitable quarter Sunday as it prepares to go public. Its revenue for the second quarter surged past $11.5 billion..\n\nJensen Huang, the CEO of Nvidia, dismissed AI doomsday scenarios as totally unfounded. He said that companies have made tremendous strides in defending against cybersecurity risks.\n\nPresident Trump dismissed the risks and defended the administration's light-touch regulatory approach.\n\nHe said U.S. laws already ban companies from creating dangerous technologies and punish them for damage their products cause. The U.S. has to continue upgrading its AI capabilities to stay ahead of China, he said.\n\n\"There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WI"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-p-global-stock-beat-213734287.html",
+      "headline": "Why S&P Global Stock Beat the Market on Monday",
+      "summary": "The company participated in a fundraising round for a privately held peer.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-14T21:37:34+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
+      "headline": "Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank",
+      "summary": "\u2198\ufe0f Nvidia (NVDA), Intel (INTC), Marvell Technology (MRVL): Chip stocks slid after leaders of the biggest AI companies called to slow development of the technology, raising questions over chip demand. Overseas chip stocks sold off, including SK Hynix (KR:000660) and Samsung Electronics (KR: 005930) in South Korea and ASML (NL: ASML) in the Netherlands.",
+      "source": "The Wall Street Journal",
+      "published_at": "2026-09-14T21:37:24+00:00",
+      "sentiment": -0.128,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+      "headline": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+      "summary": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
+      "source": "Yahoo Finance Video",
+      "published_at": "2026-09-14T14:39:00+00:00",
+      "sentiment": 0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
+      "headline": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+      "summary": "Tech stock news for the week of Sept. 14.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T14:01:34+00:00",
+      "sentiment": -0.4215,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+      "headline": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+      "summary": "Here's a check of the markets in the first few minutes of trading.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T13:45:19+00:00",
+      "sentiment": 0.6369,
+      "relevant": false
+    }
+  ],
+  "caveats": [],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

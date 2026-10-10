@@ -1,0 +1,245 @@
+{
+  "ticker": "AMD",
+  "company_name": "Advanced Micro Devices, Inc.",
+  "as_of": "2026-09-10",
+  "metrics": {
+    "date": "2026-09-10",
+    "close": 503.600006103516,
+    "daily_return": -0.033582748613151615,
+    "volume_ratio": 0.7315406726670134,
+    "vol_30d": 0.040870940450355525,
+    "drawdown": -0.13308424818828202,
+    "pe": 128.46938931212142,
+    "market_cap": 822114441115.0376,
+    "momentum_12_1": 2.0440250611546196,
+    "beta_60d": 3.16489780801351,
+    "ma_30d": 481.79500020345057,
+    "dist_to_ma": 0.0452578501040021,
+    "return_7d": 0.1018247249672198,
+    "return_30d": 0.0617304737880956,
+    "dist_52w_high": -0.13308424818828202,
+    "pb": 12.225971841021485,
+    "debt_to_cap": 0.005201222343449462
+  },
+  "attention": {
+    "score_date": "2026-09-10",
+    "idio_return": -0.0146115973803862,
+    "idio_z": -0.380543726175449,
+    "volume_ratio": 0.731540672667013,
+    "anomaly_score": 0.265873015873016,
+    "iforest_flag": 0,
+    "news_count": 40,
+    "avg_sentiment": 0.32749,
+    "tape_news": "noise",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 14,
+  "avg_sentiment_relevant": 0.5356642857142857,
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-looks-cheap-discount-195733709.html",
+      "headline": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
+      "summary": "Qualcomm (QCOM) trades at about $176 a share, down about 14% over the past three months and up 12.4% over the past twelve. At 20.1 times earnings against an S&P 500 median of 22.9, a profitable chip designer sits below the market. The question is whether that is a good business on sale or a fair price for a business under real pressure.",
+      "source": "Trefis",
+      "published_at": "2026-09-10T19:57:33+00:00",
+      "sentiment": 0.8922,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195545130.html",
+      "headline": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
+      "source": "MT Newswires",
+      "published_at": "2026-09-10T19:55:45+00:00",
+      "sentiment": -0.296,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/articles/advanced-micro-devices-vs-marvell-190805469.html",
+      "headline": "Advanced Micro Devices vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
+      "summary": "Both companies are winning in the AI chip race, but they are doing it with very different business models and profit profiles.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T19:08:05+00:00",
+      "sentiment": 0.8176,
+      "relevant": true,
+      "body": "The battle for silicon dominance is heating up as artificial intelligence transforms the global economy. Choosing between Advanced Micro Devices (NASDAQ:AMD) and Marvell Technology (NASDAQ:MRVL) requires looking at their specific strengths.\n\nAMD provides high-performance processors for personal computers, gaming consoles, and massive data centers. Marvell focuses on the plumbing of the internet, designing specialized chips for networking and storage. Both companies are central to the future of technology, but they serve different niches in the tech ecosystem.\n\nAMD designs high-performance processors for a wide range of clients, primarily competing among semiconductor stocks . The company recently secured a massive deal with OpenAI OpCo, LLC to deploy 6 gigawatts of GPUs, highlighting its growing role in AI infrastructure. It also supplies the core chips for Sony and Microsoft (NASDAQ:MSFT) game consoles. Customer concentration like this adds a layer of risk to the business. To support its AI goals, AMD acquired ZT Systems in 2025 before selling the manufacturing arm to Sanmina (NASDAQ:SANM).\n\nIn the fiscal year ended Dec. 27, 2025, revenue reached nearly $34.6 billion, representing a significant 34.3% increase compared with the prior fiscal year. This growth helped the company achieve net income of approximately $4.3 billion, which is a net margin of roughly 12.5%. These figures show a substantial improvement in profitability over previous years as the company captures more high-value data center sales.\n\nAs of its December 2025 balance sheet, the current ratio is nearly 2.9x, indicating the company has nearly $2.90 in short-term assets for every $1 in short-term debt. The debt-to-equity ratio is roughly 0.1x, which means the company uses very little borrowed money relative to shareholder equity. Free cash flow reached approximately $5.5 billion, though note that stock-based compensation represented roughly 25% of operating cash flow, which inflates reported cash generation since SBC is a non-cash expense added back in the cash flow statement.\n\nMarvell specializes in data infrastructure, providing the chips that move and store information across complex networks. A key part of its strategy is custom silicon, including a major partnership with Alphabet (NASDAQ:GOOGL) that extends through 2033. Because Marvell generates about 82% of its revenue from just ten customers, the company faces significant customer concentration risk. Recent acquisitions of Celestial AI and XConn Technologies further bolster its position in advanced switching and interconnect technology.\n\nIn the fiscal year ended Jan. 31, 2026, revenue reached nearly $8.2 billion, a sharp 42.1% increase year over year. The company reported net income of approximately $2.7 billion, yielding an impressive net margin of nearly 32.6%. While this marks a sharp turnaround from the net losses of the previous two fiscal years, this surge was heavily amplified by a one-time $1.8 billion pre-tax gain from the sale of its automotive business, alongside strong organic growth from high-value AI data center networking products.\n\nAccording to its January 2026 balance sheet, the debt-to-equity ratio is roughly 0.3x, showing a moderate level of total debt compared to the equity held by shareholders. The current ratio is approximately 2.0x, suggesting a healthy ability to cover immediate liabilities. Free cash flow for the year was nearly $1.4 billion, but note that stock-based compensation represe"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-earnings-ai-190000157.html",
+      "headline": "NVIDIA vs. AMD After Earnings: Which AI Stock Should You Buy Now?",
+      "summary": "NVIDIA's AI infrastructure leadership, higher profitability and lower valuation give it an edge over AMD as AI demand grows.",
+      "source": "Zacks",
+      "published_at": "2026-09-10T19:00:00+00:00",
+      "sentiment": -0.1531,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-nvidia-185130534.html",
+      "headline": "Advanced Micro Devices vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026?",
+      "summary": "Both companies are winning in AI chips, but one of them is winning by a margin that is getting harder to close.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T18:51:30+00:00",
+      "sentiment": 0.85,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/articles/piper-sandler-message-amd-stock-183752621.html",
+      "headline": "Piper Sandler Has a Message for AMD Stock Investors",
+      "summary": "One chip stock wins while another faces a valuation reality",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-10T18:37:52+00:00",
+      "sentiment": 0.5719,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-2-5-declaring-183013507.html",
+      "headline": "AMD Falls 2.5% After Declaring a $2 Trillion AI Prize",
+      "summary": "The opportunity dwarfs AMD's current business, making market-share conversion--not market size--the decisive investor question.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-10T18:30:13+00:00",
+      "sentiment": 0.7906,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-amd-mi450-181051677.html",
+      "headline": "Cathie Wood Is Selling AMD Before MI450 Arrives. Is She About to Miss Another Nvidia?",
+      "summary": "Cathie Wood is trimming AMD just as its biggest product cycle in years prepares to land, and the last time ARK sold an AI chipmaker too early, the stock went on to triple. Here is what the Helios launch changes about the calculus.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-10T18:10:51+00:00",
+      "sentiment": -0.1531,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-money-hyperscaler-deal-173255900.html",
+      "headline": "Can Marvell Stock Make You Money Before Its Hyperscaler Deal Pays Off?",
+      "summary": "Marvell Technology (MRVL) trades at $235.01, and it has expanded its agreement with a key hyperscaler, a deal analysts size at up to $120 billion of revenue over about six and a half years. Most of that money, though, arrives after the fiscal 2028 outlook you would be paying for today.",
+      "source": "Trefis",
+      "published_at": "2026-09-10T17:32:55+00:00",
+      "sentiment": 0.4939,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-move-just-put-amd-172600793.html",
+      "headline": "An Nvidia Move Just Put AMD and Intel on the Defensive",
+      "summary": "Nvidia is looking to extend its dominance in AI chips at the expense of Intel and AMD.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T17:26:00+00:00",
+      "sentiment": 0.3818,
+      "relevant": true
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+      "headline": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
+      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-09-09T22:39:29+00:00",
+      "sentiment": 0.8308,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-ascends-214504877.html",
+      "headline": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
+      "summary": "In the most recent trading session, Advanced Micro Devices (AMD) closed at $519.73, indicating a +2.77% shift from the previous trading day.",
+      "source": "Zacks",
+      "published_at": "2026-09-09T21:45:04+00:00",
+      "sentiment": 0.4588,
+      "relevant": true,
+      "body": "In the latest close session, Advanced Micro Devices (AMD) was up +2.77% at $519.73. The stock outpaced the S&P 500's daily loss of 0.48%. Meanwhile, the Dow lost 0.77%, and the Nasdaq, a tech-heavy index, lost 0.64%.\n\nPrior to today's trading, shares of the chipmaker had gained 6.62% outpaced the Computer and Technology sector's gain of 0.4% and the S&P 500's loss of 0.97%.\n\nThe investment community will be paying close attention to the earnings performance of Advanced Micro Devices in its upcoming release. On that day, Advanced Micro Devices is projected to report earnings of $1.9 per share, which would represent year-over-year growth of 58.33%. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $13.07 billion, up 41.38% from the year-ago period.\n\nAMD's full-year Zacks Consensus Estimates are calling for earnings of $7.49 per share and revenue of $50.45 billion. These results would represent year-over-year changes of +79.62% and +45.63%, respectively.\n\nInvestors should also take note of any recent adjustments to analyst estimates for Advanced Micro Devices. Such recent modifications usually signify the changing landscape of near-term business trends. As a result, upbeat changes in estimates indicate analysts' favorable outlook on the business health and profitability.\n\nOur research demonstrates that these adjustments in estimates directly associate with imminent stock price performance. To take advantage of this, we've established the Zacks Rank, an exclusive model that considers these estimated changes and delivers an operational rating system.\n\nThe Zacks Rank system, running from #1 (Strong Buy) to #5 (Strong Sell), holds an admirable track record of superior performance, independently audited, with #1 stocks contributing an average annual return of +25% since 1988. The Zacks Consensus EPS estimate has moved 0.02% lower within the past month. Currently, Advanced Micro Devices is carrying a Zacks Rank of #3 (Hold).\n\nValuation is also important, so investors should note that Advanced Micro Devices has a Forward P/E ratio of 67.54 right now. Its industry sports an average Forward P/E of 21.61, so one might conclude that Advanced Micro Devices is trading at a premium comparatively.\n\nWe can also see that AMD currently has a PEG ratio of 4.5. This popular metric is similar to the widely-known P/E ratio, with the difference being that the PEG ratio also takes into account the company's expected earnings growth rate. As of the close of trade yesterday, the Computer - Integrated Systems industry held an average PEG ratio of 0.63.\n\nThe Computer - Integrated Systems industry is part of the Computer and Technology sector. This group has a Zacks Industry Rank of 29, putting it in the top 12% of all 250+ industries.\n\nThe Zacks Industry Rank evaluates the power of our distinct industry groups by determining the average Zacks Rank of the individual stocks forming the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\n\nBe sure to use Zacks.com to monitor all these stock-influencing metrics, and more, throughout the forthcoming trading sessions.\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
+      "headline": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
+      "summary": "On August 31, Advanced Micro Devices, Inc. (NASDAQ:AMD), Cisco Systems, Inc. (NASDAQ:CSCO), and Humain announced that their joint AI infrastructure buildout in Saudi Arabia is officially live. The deployment links AMD\u2019s Instinct MI355X GPUs and EPYC CPUs directly with Cisco\u2019s Silicon One-based 800G switches, giving Humain a foundation to offer GPU-as-a-service across the Middle East. [\u2026]",
+      "source": "Insider Monkey",
+      "published_at": "2026-09-09T21:32:47+00:00",
+      "sentiment": 0.802,
+      "relevant": true
+    },
+    {
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-regains-investor-favor/?src=A00220&yptr=yahoo",
+      "headline": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
+      "summary": "AMD is the IBD Stock Of The Day after the chipmaker's shares surged above a key technical level.",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-09-09T20:49:07+00:00",
+      "sentiment": 0.5994,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-chip-stock-poised-outperform-204300185.html",
+      "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
+      "summary": "Qualcomm is gradually making a dent in the AI chip market.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T20:43:00+00:00",
+      "sentiment": 0.2263,
+      "relevant": true
+    },
+    {
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-qualcomm-amazon-28cb9ee5?siteid=yhoof2&yptr=yahoo",
+      "headline": "Why Qualcomm\u2019s AI Chip Deal Proves Nvidia Is Still Top Dog",
+      "summary": "Nvidia stock was slipping after Qualcomm's announcement of an AI infrastructure deal with Amazon.",
+      "source": "Barrons.com",
+      "published_at": "2026-09-09T19:34:00+00:00",
+      "sentiment": 0.3612,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html",
+      "headline": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
+      "summary": "Bank of America Flags a Major Shift in Semiconductor Bets. Micron and AMD Gain Ground",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-09T19:06:24+00:00",
+      "sentiment": 0.7579,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-jumps-3-5-2-182433703.html",
+      "headline": "AMD Jumps 3.5% as Its $2 Trillion-Plus AI Promise Raises the Stakes",
+      "summary": "The opportunity dwarfs AMD's current business, leaving execution and supply--not market size--as the decisive tests.",
+      "source": "GuruFocus.com",
+      "published_at": "2026-09-09T18:24:33+00:00",
+      "sentiment": 0.7184,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stopped-leading-175016006.html",
+      "headline": "What Qualcomm Has Stopped Leading With",
+      "summary": "Qualcomm (QCOM) has spent years telling shareholders it is becoming more than a smartphone chip company. What changed is where the new growth is expected to come from. Two years ago the big non-handset targets were automotive and IoT. Today, the newest leg of the story runs through the data center, and management has already put a number on it.",
+      "source": "Trefis",
+      "published_at": "2026-09-09T17:50:16+00:00",
+      "sentiment": 0.25,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-already-pay-nvidias-bigger-171630096.html",
+      "headline": "Did You Already Pay For NVIDIA's Bigger Guide?",
+      "summary": "NVIDIA (NVDA) trades at $225.73, about 4% below its 52-week high after a 35% total return over the past twelve months. Management has just told the market to expect a much larger revenue quarter, and the easy read is that a step that size cannot already be in the price. But the stock's reaction suggests investors have already absorbed much of the news. The question is how much of the revenue step translates into value for shareholders.",
+      "source": "Trefis",
+      "published_at": "2026-09-09T17:16:30+00:00",
+      "sentiment": 0.5927,
+      "relevant": false
+    }
+  ],
+  "caveats": [],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

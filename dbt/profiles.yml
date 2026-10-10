@@ -1,0 +1,12 @@
+market_intel:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('DB_HOST', 'localhost') }}"
+      port: "{{ env_var('DB_PORT', '5433') | int }}"
+      user: "{{ env_var('DB_USER', 'market') }}"
+      password: "{{ env_var('DB_PASSWORD', 'market') }}"
+      dbname: "{{ env_var('DB_NAME', 'market_intel') }}"
+      schema: analytics
+      threads: 2

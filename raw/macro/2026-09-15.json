@@ -1,0 +1,106 @@
+{
+  "kind": "macro",
+  "as_of": "2026-09-15",
+  "spy": {
+    "ticker": "SPY",
+    "as_of": "2026-09-15",
+    "close": 757.390014648438,
+    "daily_return": -0.0045867813741688685,
+    "vol_30d": 0.006064033316638421,
+    "return_30d": -0.024409423128403142
+  },
+  "headlines": [
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-end-220455877.html",
+      "headline": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting \u2014 AMZN, META, MU, TSLA, PLTR In Focus",
+      "summary": "Traders expect a 92% chance the Fed will hike interest rates on Wednesday.",
+      "source": "Stocktwits",
+      "published_at": "2026-09-15T22:04:55+00:00",
+      "sentiment": 0.4215,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/jepq-monthly-check-swung-0-215512528.html",
+      "headline": "JEPQ\u2019s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can\u2019t Budget on It",
+      "summary": "JEPQ promises retirees a fat monthly paycheck, but the same $500,000 investment can produce wildly different checks from one season to the next, and the tax treatment buried in the fine print makes the real yield far less glamorous than the headline suggests.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T21:55:12+00:00",
+      "sentiment": 0.7789,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargos-p-500-call-213300778.html",
+      "headline": "Wells Fargo's new S&P 500 call signals trouble ahead",
+      "summary": "Wells Fargo\u2019s new target flows straight through to SPY and VOO, the funds millions of investors already own.",
+      "source": "TheStreet",
+      "published_at": "2026-09-15T21:33:00+00:00",
+      "sentiment": 0.296,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-down-51-qs-stock-191639034.html",
+      "headline": "QuantumScape Is Down 51% This Year. Is QS Stock Dead Money or Due for a Bounce?",
+      "summary": "QuantumScape has shed half its value this year while its sector index climbed, and the gap between those two lines tells a more complicated story than a simple bull or bear verdict can capture.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T19:16:39+00:00",
+      "sentiment": -0.3182,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/klarna-down-51-klar-stock-190355659.html",
+      "headline": "Klarna Is Down 51% This Year. Is KLAR Stock Dead Money or Due for a Bounce?",
+      "summary": "Klarna shares have lost half their value this year while rivals Sezzle and Affirm traded in the opposite direction, raising a question that cuts both ways: is the divergence a warning sign or the setup for a sharp reversal?",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T19:03:55+00:00",
+      "sentiment": -0.7882,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-stock-53-2026-185630298.html",
+      "headline": "Sirius XM Stock Is Up 53% in 2026: Take Profits, or Buy More?",
+      "summary": "Sirius XM just pulled off a 53% run while its entire sector sits in the red, and now shareholders face the hardest part: figuring out whether the rerating is finished or just getting started.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T18:56:30+00:00",
+      "sentiment": 0.4404,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/joby-slips-down-53-evtol-164133389.html",
+      "headline": "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+      "summary": "The eVTOL sector keeps bleeding out, and Joby, Archer, and EHang are all hovering near 52-week lows with no single catalyst to blame. What happens next depends on a certification outcome that could either reprice the entire thesis overnight or make the next capital raise painfully expensive.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T16:41:33+00:00",
+      "sentiment": -0.7579,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/norwegian-falls-3-wells-fargo-163654293.html",
+      "headline": "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+      "summary": "A Wells Fargo note about Carnival is hitting Norwegian Cruise Line the hardest, and the reason why reveals exactly which operator the market sees as most exposed to the Caribbean pricing storm now moving through the sector.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T16:36:54+00:00",
+      "sentiment": 0.0534,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/12-investment-must-reads-week-160848000.html",
+      "headline": "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+      "summary": "Issuers continue to be aggressive with ETF launches, but increasingly new products seeking to find a niche are based on leverage or riskier assets. The rancor in bond markets is pushing investors to seek alternative paths for income. These are among the investment must reads for financial advisors this week.",
+      "source": "Wealth Management",
+      "published_at": "2026-09-15T16:08:48+00:00",
+      "sentiment": -0.3291,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/energy/articles/offshore-oil-stocks-rally-while-160315565.html",
+      "headline": "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+      "summary": "Transocean, Valaris, and W&T Offshore surged an identical 6% in Tuesday's session despite operating in completely different layers of the offshore energy business, and the reason behind that synchronized move tells investors something important about where this rally can and cannot go.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T16:03:15+00:00",
+      "sentiment": 0.6486,
+      "relevant": true
+    }
+  ],
+  "relevant_news_count": 7,
+  "caveats": []
+}

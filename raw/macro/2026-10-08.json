@@ -1,0 +1,17 @@
+{
+  "kind": "macro",
+  "as_of": "2026-10-08",
+  "spy": {
+    "ticker": "SPY",
+    "as_of": "2026-10-08",
+    "close": 773.929992675781,
+    "daily_return": -0.004233007580038977,
+    "vol_30d": 0.006264290039034958,
+    "return_30d": 0.0151232527446209
+  },
+  "headlines": [],
+  "relevant_news_count": 0,
+  "caveats": [
+    "No SPY/US-market-relevant headlines in this dump."
+  ]
+}

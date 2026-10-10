@@ -1,0 +1,17 @@
+name: market_intel
+version: "1.0.0"
+config-version: 2
+profile: market_intel
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  market_intel:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    marts:
+      +materialized: view

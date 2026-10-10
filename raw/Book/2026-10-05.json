@@ -1,0 +1,83 @@
+{
+  "kind": "book",
+  "as_of": "2026-10-05",
+  "book": {
+    "as_of": "2026-10-05",
+    "book_value": 15023.99993896484,
+    "cost_basis": 11855.000152587898,
+    "unrealized": 3168.9997863769418,
+    "unrealized_pct": 0.2673133484258254,
+    "day_dollar": 6.3005065918000085,
+    "day_pct": 0.00041953873295787664,
+    "return_30d_weighted": 0.3309957214514102,
+    "name_count": 2,
+    "top_ticker": "AMD",
+    "top_weight": 0.8409877563451692,
+    "names": [
+      {
+        "ticker": "AMD",
+        "company_name": "Advanced Micro Devices, Inc.",
+        "shares": 20.0,
+        "close": 631.75,
+        "as_of": "2026-10-05",
+        "daily_return": -0.003407381546335962,
+        "return_30d": 0.3849307149426358,
+        "vol_30d": 0.03260097568020883,
+        "beta_60d": 3.0205069321853424,
+        "tape_news": "quiet",
+        "vol_regime": "calm",
+        "market_value": 12635.0,
+        "weight": 0.8409877563451692,
+        "cost_basis": 9551.400146484379,
+        "unrealized": 3083.5998535156214,
+        "unrealized_pct": 0.3228427043390716,
+        "day_dollar": -43.19946289062
+      },
+      {
+        "ticker": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "shares": 10.0,
+        "close": 238.899993896484,
+        "as_of": "2026-10-05",
+        "daily_return": 0.021158354403984517,
+        "return_30d": 0.0457430382483637,
+        "vol_30d": 0.024691969793593636,
+        "beta_60d": 2.0203896351375987,
+        "tape_news": "quiet",
+        "vol_regime": "calm",
+        "market_value": 2388.99993896484,
+        "weight": 0.1590122436548308,
+        "cost_basis": 2303.6000061035197,
+        "unrealized": 85.3999328613204,
+        "unrealized_pct": 0.037072379160899636,
+        "day_dollar": 49.499969482420006
+      }
+    ],
+    "unheld": [],
+    "caveats": [
+      "AMD is 84% of the book (concentration, not a forecast).",
+      "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book."
+    ]
+  },
+  "macro": {
+    "spy": {
+      "ticker": "SPY",
+      "as_of": "2026-10-05",
+      "close": 774.830017089844,
+      "daily_return": 0.006743415548341426,
+      "vol_30d": 0.006163694191516038,
+      "return_30d": 0.0021470494411071
+    },
+    "headlines": [],
+    "relevant_news_count": 0
+  },
+  "caveats": [
+    "AMD is 84% of the book (concentration, not a forecast).",
+    "Both names are AI-infrastructure semiconductors; they are one theme, not a diversified book.",
+    "No SPY/US-market-relevant headlines in this dump."
+  ],
+  "watchlist_tickers": [
+    "AMD",
+    "NVDA"
+  ]
+}

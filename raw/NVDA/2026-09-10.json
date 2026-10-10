@@ -1,0 +1,245 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "as_of": "2026-09-10",
+  "metrics": {
+    "date": "2026-09-10",
+    "close": 218.360000610352,
+    "daily_return": -0.023740321017851448,
+    "volume_ratio": 0.8085645589886912,
+    "vol_30d": 0.026721288908565632,
+    "drawdown": -0.07372530956913033,
+    "pe": 27.64050640637367,
+    "market_cap": 5272738934738.17,
+    "momentum_12_1": 0.2737175392172601,
+    "beta_60d": 2.0684171096780952,
+    "ma_30d": 218.20233357747392,
+    "dist_to_ma": 0.000722572624651084,
+    "return_7d": -0.0269595960653626,
+    "return_30d": 0.0039540257947218,
+    "dist_52w_high": -0.07372530956913033,
+    "pb": 23.02646848153032,
+    "debt_to_cap": 0.007369983942117871
+  },
+  "attention": {
+    "score_date": "2026-09-10",
+    "idio_return": -0.0113417362354972,
+    "idio_z": -0.531542602740361,
+    "volume_ratio": 0.808564558988691,
+    "anomaly_score": 0.201058201058201,
+    "iforest_flag": 0,
+    "news_count": 42,
+    "avg_sentiment": 0.215352380952381,
+    "tape_news": "noise",
+    "vol_regime": "calm"
+  },
+  "relevant_news_count": 4,
+  "avg_sentiment_relevant": -0.0726,
+  "headlines": [
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
+      "headline": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
+      "summary": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-09-10T22:27:49+00:00",
+      "sentiment": 0.5423,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-vs-fuelcell-energy-222500850.html",
+      "headline": "Bloom Energy vs. FuelCell Energy: Which Data Center Fuel Cell Maker Is the Better Buy Right Now?",
+      "summary": "Each company is charting its own unique path in the AI power revolution.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T22:25:00+00:00",
+      "sentiment": 0.7269,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-smh-chip-fund-charges-221518627.html",
+      "headline": "Forget SMH: The Chip Fund That Charges 0.15% Is Beating It by 22 Points This Year",
+      "summary": "A smaller, cheaper semiconductor ETF has quietly left the industry's most popular chip fund in the dust this year, and the reason comes down to one name that SMH owns a lot of and its rival barely touches.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-10T22:15:18+00:00",
+      "sentiment": -0.8391,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-rigetti-quantinuum-just-221400204.html",
+      "headline": "D-Wave, Rigetti, and Quantinuum Just Got $300 Million From Washington. Here's What That Changes for Investors.",
+      "summary": "Washington is now a shareholder in these quantum computing companies.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T22:14:00+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-explains-why-nvidia-215159365.html",
+      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "source": "TechCrunch",
+      "published_at": "2026-09-10T21:51:59+00:00",
+      "sentiment": 0.2263,
+      "relevant": true,
+      "body": "Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company's AI domination \u2014 and revenues \u2014 will continue its record-breaking growth streak through the end of next year.\n\nThere's been endless hand-wringing over whether Nvidia's party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own) as well as from newly public competitor Cerebras and startups such as Etched .\n\n\"Most people think Nvidia builds a chip. I mean, you need airplanes to ship what we build,\" Huang said, adding that the company continues to battle a perception from its early days. Nvidia invented the GPU, which back then were largely sold to consumers to improve PC gaming. \"One GPU now is not $399. It's $8.5 million dollars. That's one GPU, all connected with NVLink, 2 million parts, right? 250,000 kilowatts. That's a GPU, and we ship thousands of them.\"\n\nHe added that orders for just one product, a computer system that combines 36 Grace CPUs with 72 Blackwell GPUs is currently experiencing 27% month-to-month sales growth.\n\nHuang didn't limit his bullish view to current sales though. He took the opportunity to reiterate Nvidia's revenue outlook for next year \u2014 guidance the company provided last month when it reported yet another record-breaking revenue quarter. That's when he first said revenue could grow by 70% next year.\n\n\"I think we could grow 70% year over year. We're confident about that,\" Huang said again on Thursday. Analysts expect the company to end its current fiscal year at about $400 billion in revenue. So 70% growth would mean around $680 billion next year.\n\nHuang explained why he's confident: his company is so embedded in every area of AI that he believes he can see the future.\n\n\"Nvidia runs every model. Every single lab can use us,\" the CEO said, mentioning that this includes models from Anthropic, OpenAI, and Google, as well as open-weight offerings. \"We are a foundational platform of the AI ecosystem, foundational platform of the AI industry.\"\n\nNvidia's fingers extend all the way from its suppliers, such as memory chip makers, to data center projects and startups.\n\n\"We're tracking every single gigawatt of land, power, shell around the world. Literally everything on the planet,\" he said. (\"Shell\" refers to the shell of a data center building before it is outfitted with computers).\n\n\"I mean, just think about all my partners. How many neoclouds are reporting back to us? How many OEMs are reporting back to us? How many clouds are reporting back to us? How many AI native companies are reporting back to us? We're working with everybody, and so we kind of know where everything is,\" he said.\n\nThat comment led to inevitable questions about Nvidia's so-called circular deals, in which it invests in companies that turn around and buy its wares. Such schemes famously contributed to the downfall of a previous generation of internet build-out suppliers like Lucent Technologies .\n\nHuang had a simple, albeit cheeky, response. \"Well, it's not circular because we put a little bit of money in, and a lot of money comes back.\" He went on to joke, \"I look at the spreadsheet, we put in $1 and $100 comes back in. Is that circular? If that is, let's do more of that.\"\n\nQuips aside, he insisted that before any of th"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-answered-michael-214700728.html",
+      "headline": "Jensen Huang just answered Michael Burry's Nvidia bear case",
+      "summary": "Jensen Huang gave Nvidia investors something to counter Burry\u2019s skepticism of cloud companies\u2019 profits.",
+      "source": "TheStreet",
+      "published_at": "2026-09-10T21:47:00+00:00",
+      "sentiment": 0.2263,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-edges-higher-microsoft-213655977.html",
+      "headline": "Nvidia stock edges higher on Microsoft data center expansion report",
+      "summary": "Investing.com -- Nvidia Corporation (NASDAQ:NVDA) edged higher in after-hours trading, rising 0.5%, Thursday following a Bloomberg report that Microsoft plans to more than triple its data center capacity.",
+      "source": "Investing.com",
+      "published_at": "2026-09-10T21:36:55+00:00",
+      "sentiment": 0.0,
+      "relevant": true
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-yields-2-6-212500136.html",
+      "headline": "Lockheed Martin Yields 2.6% and Trades at 17.6 Times Earnings. Is Wall Street Right to Be Cautious on the Stock ?",
+      "summary": "The defense industry is changing, creating pressure on traditional ways of working.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-10T21:25:00+00:00",
+      "sentiment": 0.0258,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-rises-with-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html",
+      "headline": "SpaceX stock rises with data center overhaul, budding UK defense deal in focus",
+      "summary": "SpaceEx stock is on the move Thursday as investors sort through a number of headlines affecting the rocket-and-satellite company.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-10T16:00:39+00:00",
+      "sentiment": 0.2023,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/treasury-yields-rise-as-investors-raise-bets-on-fed-rate-hike-alphacheck-135652896.html",
+      "headline": "Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck",
+      "summary": "Stocks were down on Thursday as investors watched for stress signs in the bond market as long dated bond yields as oil prices remain elevated .",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-10T13:56:52+00:00",
+      "sentiment": -0.25,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/real-estate/articles/why-independence-realty-trust-stock-225142521.html",
+      "headline": "Why Independence Realty Trust Stock Sank Today",
+      "summary": "It's essentially acquiring a peer REIT.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:51:42+00:00",
+      "sentiment": 0.5106,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-forecasts-230-billion-ai-224100954.html",
+      "headline": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "summary": "The custom chip designer could be one of the best buys in the market at today's prices.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:41:00+00:00",
+      "sentiment": 0.7579,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/energy/articles/whys-everyone-talking-bloom-energy-222500792.html",
+      "headline": "Why's Everyone Talking About Bloom Energy Now?",
+      "summary": "Everyone is chasing the companies building AI. But what if the bigger bottleneck is the power that powers them?",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:25:00+00:00",
+      "sentiment": 0.2287,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-reports-thursday-capital-budget-222401588.html",
+      "headline": "Oracle Reports Thursday. Its Capital Budget Is More Than Twice the Cash Its Business Produces.",
+      "summary": "The software giant plans to pay out about $70 billion in cash this fiscal year. Last year, its business produced $32 billion.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:24:01+00:00",
+      "sentiment": -0.1027,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-vug-vanguard-value-fund-221526134.html",
+      "headline": "Forget VUG. Vanguard\u2019s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+      "summary": "Two Vanguard funds share the same large-cap universe, the same rock-bottom fee, and the same issuer, yet one is lapping the other by a stunning margin this year, and the reason comes down to seven stocks you probably already own too many times over.",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-09T22:15:26+00:00",
+      "sentiment": 0.1911,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microns-operating-margin-surged-past-221500965.html",
+      "headline": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
+      "summary": "The memory chip market is cyclical, but this time may be different.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:15:00+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-oddity-techs-stock-skyrocketed-220838178.html",
+      "headline": "Why Oddity Tech's Stock Skyrocketed 26.5% Today",
+      "summary": "Oddity Tech's sales fell hard and the stock soared anyway. Here's what investors loved about the report.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:08:38+00:00",
+      "sentiment": 0.5423,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-rallied-today-220558926.html",
+      "headline": "Why Cloudflare Rallied Today",
+      "summary": "Meta's new Muse agent could turbocharge web traffic and Cloudflare's revenue.",
+      "source": "Motley Fool",
+      "published_at": "2026-09-09T22:05:58+00:00",
+      "sentiment": 0.0,
+      "relevant": false
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html",
+      "headline": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
+      "summary": "CoreWeave strikes a very bullish tone on demand.",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-09T14:53:36+00:00",
+      "sentiment": -0.743,
+      "relevant": true,
+      "body": "SAN FRANCISCO, Calif. \u2014 What's good for Nvidia ( NVDA ) looks to be good for its key partner in the AI infrastructure boom, CoreWeave ( CRWV ).\n\n\"We are struggling to meet demand every day,\" CoreWeave CEO Michael Intrator told Yahoo Finance from the Goldman Sachs Communacopia & Tech Conference (video above). \"Every GPU we have could be sold to multiple different clients. It is a unique moment, and it continues to be.\"\n\nNvidia serves as the backbone, primary supplier, and main financial guarantor for CoreWeave's ever-expansive neocloud operation.\n\nBeyond supplying 100% of the advanced GPUs powering CoreWeave's specialized AI data centers, Nvidia acts as a major strategic shareholder, holding an 11.5% equity stake.\n\nNvidia said after reporting its fiscal second quarter earnings that it sees 70% revenue growth for fiscal year 2028, above analyst forecasts for 45% growth. The sales gain would be larger \u2014 think in excess of 100% \u2014 if not for memory chip shortages , Nvidia CEO Jensen Huang said.\n\nCoreWeave reported that second quarter sales surged 112% year over year. Adjusted operating profits more than doubled to $1.5 billion.\n\nDriven by explosive enterprise demand for graphics processing unit (GPU) compute and a massive $104 billion total revenue backlog, management raised its full-year 2026 revenue guidance to a range of $12.4 billion to $13.2 billion.\n\n\"The quarter demonstrated AI demand remains robust, strengthening pricing power (25% increases across SKUs), growing software/token business, and upside surprises on margins,\" Citi analyst Tyler Radke wrote. \"Overall, this was one of the cleaner quarters we've seen from CoreWeave since the IPO and we think shares should move meaningfully higher on increased investor confidence in the execution and improving profitability.\"\n\nBrian Sozzi is Yahoo Finance's Executive Editor, host of the Power Players with Brian Sozzi podcast, and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , Instagram , and LinkedIn . Tips on stories? Email brian.sozzi@yahoofinance.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices"
+    },
+    {
+      "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
+      "headline": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
+      "summary": "Apple (AAPL) is expected to unveil its foldable iPhone on Wednesday at its \"Surprise and Shine\" event. This will be CEO John Ternus's first product launch as chief executive. Sherwood News head of markets Luke Kawa and Investopedia editor in chief Caleb Silver chat with Morning Brief host Julie Hyman about their expectations for the launch.",
+      "source": "Yahoo Finance Video",
+      "published_at": "2026-09-09T14:12:32+00:00",
+      "sentiment": 0.8126,
+      "relevant": false
+    }
+  ],
+  "caveats": [],
+  "charts": [
+    {
+      "id": "close_vs_ma",
+      "title": "Close vs 30-day moving average",
+      "how_to_read": "Price above ma_30d is recent strength; below is weakness. Use dist_to_ma."
+    },
+    {
+      "id": "volume",
+      "title": "Trading volume",
+      "how_to_read": "volume_ratio near 1 is ordinary; ~2+ is a real volume spike."
+    },
+    {
+      "id": "returns",
+      "title": "Daily return vs typical vol",
+      "how_to_read": "Compare daily_return to vol_30d; idio_z is vs the market, not raw percent."
+    },
+    {
+      "id": "drawdown",
+      "title": "Drawdown from peak",
+      "how_to_read": "0 is at the window high; more negative is farther from the peak."
+    }
+  ]
+}

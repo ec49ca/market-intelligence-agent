@@ -1,0 +1,62 @@
+# Local Postgres for this project.
+# Week 11 used a Dockerfile to package YOUR app.
+# This file uses Compose to run SOMEONE ELSE'S image (Postgres).
+#
+# Start:  docker compose up -d
+# Stop:   docker compose down
+# Wipe:   docker compose down -v
+#         (deletes data; next up will re-run schema.sql)
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: market-intel-postgres
+    ports:
+      # computer:container
+      # 5432 on your Mac is already taken (samvid-postgres + local Postgres).
+      # We publish THIS database on 5433 instead. Inside the container it is still 5432.
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: market
+      POSTGRES_PASSWORD: market
+      POSTGRES_DB: market_intel
+    volumes:
+      # named volume = data survives container restarts
+      - postgres_data:/var/lib/postgresql/data
+      # first boot only: run our CREATE TABLE file
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U market -d market_intel"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  airflow:
+    build:
+      context: .
+      dockerfile: Dockerfile.airflow
+    container_name: market-intel-airflow
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/project/dags
+      AIRFLOW__CORE__DEFAULT_TIMEZONE: America/New_York
+      PYTHONPATH: /opt/airflow/project
+      DB_HOST: postgres
+      DB_PORT: "5432"
+      DB_USER: market
+      DB_PASSWORD: market
+      DB_NAME: market_intel
+    env_file:
+      - .env
+    volumes:
+      - .:/opt/airflow/project
+    command: standalone
+
+volumes:
+  postgres_data:
